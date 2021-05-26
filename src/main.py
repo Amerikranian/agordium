@@ -2,7 +2,7 @@ import os
 import os.path
 import urllib.parse
 
-IGNORE_FILES = ['file_list.txt', 'main.py']
+IGNORE_FILES = ['file_list.txt', 'main.py', 'readme.md']
 
 def generate_index():
     str = """
