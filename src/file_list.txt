@@ -602,31 +602,6 @@
 2021-05-19 20:09:25   31088846 Bsg/Bk 3/bsg-bk3-s25-p3.mp3
 2021-05-19 21:23:33    8044238 Bsg/Bk 3/bsg-bk3-s25-p4.mp3
 2021-05-19 21:23:36   10033358 Bsg/Bk 3/bsg-bk3-s25-p5.mp3
-2021-05-19 20:09:24   55770458 Bsg/Streams/bsg livestream 1 crazy party june 8 2019.mp3
-2021-05-19 20:09:24   89202666 Bsg/Streams/bsg livestream 14 crazy party april 13 2019.mp3
-2021-05-19 20:09:24   79403335 Bsg/Streams/bsg livestream 15 crazy party april 20 2019.mp3
-2021-05-19 20:09:24   72306648 Bsg/Streams/bsg livestream 16 crazy party may 11 2019.mp3
-2021-05-19 20:09:24   79923307 Bsg/Streams/bsg livestream 17 crazy party may 18 2019.mp3
-2021-05-19 20:09:24   55770458 Bsg/Streams/bsg livestream 18 crazy party june-8 2019.mp3
-2021-05-19 20:09:24   54382343 Bsg/Streams/bsg livestream 19 crazy party june 29 2019.mp3
-2021-05-19 20:09:24   52974571 Bsg/Streams/bsg livestream 20 crazy party july 13 2019.mp3
-2021-05-19 20:09:24   36444608 Bsg/Streams/bsg livestream Drunken swamp fun in the large warehouse 6 17 2017.mp3
-2021-05-19 20:09:24   51691328 Bsg/Streams/bsg livestream Drunken swamp fun in the small warehouse number 1 6 17 2017.mp3
-2021-05-19 20:09:24   84959168 Bsg/Streams/bsg livestream Drunken swamp fun in the small warehouse number 2 6 17 2017.mp3
-2021-05-19 20:09:24  102514574 Bsg/Streams/bsg livestream crazy party and rtr sep 23 2018.mp3
-2021-05-19 20:09:24   91116117 Bsg/Streams/bsg livestream crazy party christmas andgiveaways dec 19 2018.mp3
-2021-05-19 20:09:24   87251175 Bsg/Streams/bsg livestream crazy party nov 24 2018.mp3
-2021-05-19 20:09:24  108648973 Bsg/Streams/bsg livestream crazy party nov 3 2018.mp3
-2021-05-19 20:09:24  106348535 Bsg/Streams/bsg livestream crazy party sep 15.mp3
-2021-05-19 20:09:24   98741250 Bsg/Streams/bsg livestream crazy party sep 29.mp3
-2021-05-19 21:03:44   15875840 Bsg/Streams/bsg livestream drunken fun in the large warehouse2.mp3
-2021-05-19 20:09:24   59272520 Bsg/Streams/bsg livestream feer sep 26-2018.mp3
-2021-05-19 20:09:24   65955268 Bsg/Streams/bsg livestream oh shit oct 24 2018.mp3
-2021-05-19 20:09:24   62162294 Bsg/Streams/bsg livestream oh shit oct 31 2018.mp3
-2021-05-19 20:09:24   56446292 Bsg/Streams/bsg-live-stream21-crazy-party-august-3-2019.mp3
-2021-05-19 20:09:24   72144005 Bsg/Streams/bsg-live-stream22-crazy-party-august-10-2019.mp3
-2021-05-19 20:09:24  105977376 Bsg/Streams/bsg-live-stream23-stw-august-17-2019.mp3
-2021-05-19 20:09:24   70448343 Bsg/Streams/bsg-live-stream24-stw-august-18-2019.mp3
 2021-05-19 20:09:24   67885568 Bsg/Survive the Wild Events/STW_LS1.MP3
 2021-05-19 20:09:24   24127104 Bsg/Survive the Wild Events/STW_LS2.MP3
 2021-05-19 20:09:24   51332288 Bsg/Survive the Wild Events/bsg_event2_fight02_ball_weeners_vs_pool_team1.mp3
@@ -646,6 +621,17 @@
 2021-05-19 20:09:24   45996032 Bsg/Survive the Wild Events/bsg_event3_fight15_ball_suckers_vs_duck_pond.mp3
 2021-05-19 20:09:25   94281344 Bsg/Swamp/BSG_interview_with_aprone.mp3
 2021-05-19 21:23:44   10185344 Bsg/Swamp/robocop_large_warehouse_mission_with_smoke_and_others.mp3
+2021-05-26 11:57:46   41693825 Bsg/bsg-an-interview-with-harry-cooper-from-pitch-black-october-23-2019.mp3
+2021-05-26 11:57:46   63340641 Bsg/bsg-core-exiles-an-interview-with-coops.mp3
+2021-05-26 11:57:46   21460978 Bsg/bsg-doing-it-right-review-game-example.mp3
+2021-05-26 11:57:46   53526426 Bsg/bsg-expanding-known-space-playthrough.mp3
+2021-05-26 11:57:46  105580895 Bsg/bsg-hell-hunter-audio-review.mp3
+2021-05-26 11:57:46  160750306 Bsg/bsg-live-stream91-lost-in-blindness-may-22-2021-review.mp3
+2021-05-26 11:57:46   20809408 Bsg/bsg-sequence-storm-game-example.mp3
+2021-05-26 11:57:46   33877740 Bsg/bsg-smokes-blind-quest-game-play.mp3
+2021-05-26 11:57:50    9623368 Bsg/bsg-space-wave-race-review-game-example.mp3
+2021-05-26 11:58:05    3378651 Bsg/bsg-tgtr-review-audio-clip 1.mp3
+2021-05-26 11:58:17   12211328 Bsg/hq-trivia-demo.mp3
 2021-05-19 20:09:24   28726402 Cary/Bk 3/00 - BK3 - Tutorial.mp3
 2021-05-19 20:12:17    3121762 Cary/Bk 3/00.5 - BK3 - Magical Edge.mp3
 2021-05-19 20:12:43   12665122 Cary/Bk 3/01 - BK3 - Stage 1-1.mp3
