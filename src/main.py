@@ -80,9 +80,10 @@ def post_populate():
 def generate_files():
     """ This function generates files for each author and series in the listing. """
     file = open("clean_list.txt", "r")
+    extensions = [".mp3", ".ogg", ".wav", ".flac", ".wma", ".ogg"]
     for line in file:
         strings = line.split("/")
-        if len(strings) == 3 and line[-5:-1] == ".mp3":
+        if len(strings) == 3 and line[-5:-1].lower() in extensions:
             author = strings[0]
             series = strings[1]
             if author != series:
