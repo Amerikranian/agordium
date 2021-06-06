@@ -83,7 +83,7 @@ def generate_files():
     extensions = [".mp3", ".ogg", ".wav", ".flac", ".wma", ".ogg"]
     for line in file:
         strings = line.split("/")
-        if len(strings) == 3 and line[-5:-1].lower() in extensions:
+        if len(strings) == 3 and line[line.rfind("."):-1].lower() in extensions:
             author = strings[0]
             series = strings[1]
             if author != series:
