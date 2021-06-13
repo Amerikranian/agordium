@@ -461,10 +461,22 @@
 2021-05-24 16:18:39   59791237 Brandon Cole/Brandon Cole/Weekly Party Pack Day/Totally Blind Gamer hosts weekly Party Pack day Episode 12.mp3
 2021-05-19 20:09:26   31953526 Brendan Smith/Adventure at C/Adventure at c walk through by Brendan Smith and Lauren Downie.mp3
 2021-05-19 20:09:26   37243217 Brendan Smith/Battles Zone/Battle zone walk through by Brendan Smith and Lauren Downie.mp3
+2021-06-12 21:30:54   38104966 Brendan Smith/Misc/Awesome Homer walkthrough.mp3
+2021-06-12 21:30:54   35093735 Brendan Smith/Misc/Christmas special.mp3
+2021-06-12 21:30:54   48523180 Brendan Smith/Misc/Time Adventures Review.mp3
 2021-05-19 20:09:25   30217432 Brendan Smith/Perilous Hearts/Perilous Hearts Review.mp3
 2021-05-19 20:09:25   47334424 Brendan Smith/Sound RTS/Sound RTS multiplayer walk through.mp3
+2021-06-12 21:27:27   28043600 Brendan Smith/Sound RTS/SoundRTS playthrough.mp3
+2021-06-12 21:22:20   49644484 Brendan Smith/Swamp/2nd Swamp walk through by Brendan Smith - part 1.mp3
+2021-06-12 21:22:26   13174202 Brendan Smith/Swamp/2nd Swamp walk through by Brendan Smith - part 2.mp3
+2021-06-12 21:22:20   40712988 Brendan Smith/Swamp/Swamp Birthday special part 1.mp3
+2021-06-12 21:22:20   30539861 Brendan Smith/Swamp/Swamp Birthday special part 2.mp3
+2021-06-12 21:22:20   20230189 Brendan Smith/Swamp/Swamp Birthday special part 3.mp3
 2021-05-19 20:09:26   47454451 Brendan Smith/Swamp/Swamp walkthrough by Brendan Smith.mp3
+2021-06-12 21:22:20   81117519 Brendan Smith/Swamp/swamp review 2013.mp3
 2021-05-19 20:09:26   49940817 Brendan Smith/Tactical battle/Tactical battle walk-through by Brendan Smith and Lauren Downie.mp3
+2021-06-12 21:30:54   27586271 Brendan Smith/The Road to Rage/part 1.mp3
+2021-06-12 21:30:54   18235688 Brendan Smith/The Road to Rage/part 2.mp3
 2021-05-19 21:25:49    7376565 Bryan198026/Airik the Cleric/Let's Play Airik the Cleric #01 - Hammer and Tongs.mp3
 2021-05-19 21:25:53    7181877 Bryan198026/Airik the Cleric/Let's Play Airik the Cleric #02 - The Caves of Veridean.mp3
 2021-05-19 21:25:56    7338621 Bryan198026/Airik the Cleric/Let's Play Airik the Cleric #03 - Cat and Mouse.mp3
@@ -1404,6 +1416,10 @@
 2021-05-19 21:37:54   24135262 Everstorm/Branble/the totality, I mean branble concept part 1.mp3
 2021-05-19 21:37:55   22361025 Everstorm/Branble/the totality, I mean branble concept part 2.mp3
 2021-05-19 21:37:54  238674861 Everstorm/Tomb Hunter/Tomb hunter gameplay by everstorm.mp3
+2021-06-12 21:41:00          0 Evil Chocolate Cookie/Entombed/
+2021-06-12 21:45:28   75581374 Evil Chocolate Cookie/Entombed/More entombed.mp3
+2021-06-12 21:45:29   46967347 Evil Chocolate Cookie/Entombed/Playing entombed, part 2.mp3
+2021-06-12 21:45:28   35365562 Evil Chocolate Cookie/Entombed/Playing entombed.mp3
 2021-06-09 20:28:37   93527829 Evil Chocolate Cookie/Manamon 1/01 Playing Manamon 1, part 1.mp3
 2021-06-09 20:28:37  111763389 Evil Chocolate Cookie/Manamon 1/02 Playing Manamon 1, part 2.mp3
 2021-06-09 20:28:37  139123149 Evil Chocolate Cookie/Manamon 1/03 Playing Manamon 1, part 3.mp3
@@ -1437,21 +1453,19 @@
 2021-06-09 20:28:37   75525330 Evil Chocolate Cookie/Misc/Finishing up super egg hunt plus.mp3
 2021-06-09 20:28:37   87101482 Evil Chocolate Cookie/Misc/Jackbox fun.mp3
 2021-06-09 20:28:37   77533700 Evil Chocolate Cookie/Misc/Jim Kitchen's games.mp3
-2021-06-09 20:28:37   75581374 Evil Chocolate Cookie/Misc/More entombed.mp3
 2021-06-09 20:28:40   10744065 Evil Chocolate Cookie/Misc/My first real stream, playing perilous marathon by IMS Productions.mp3
 2021-06-09 20:28:37   75859761 Evil Chocolate Cookie/Misc/One year party, a little late, playing some crazy party and other stuff with my viewers.mp3
 2021-06-09 20:28:37  188886656 Evil Chocolate Cookie/Misc/Playing Manamon 2, part 8.mp3
-2021-06-09 20:28:37  173177376 Evil Chocolate Cookie/Misc/Playing Paladin of the Sky part 7.mp3
 2021-06-09 20:28:37   67813788 Evil Chocolate Cookie/Misc/Playing Q9.mp3
 2021-06-09 20:28:37  116217138 Evil Chocolate Cookie/Misc/Playing a hero's call, part 1.mp3
 2021-06-09 20:28:37  140038450 Evil Chocolate Cookie/Misc/Playing around with Sequence Storm..mp3
-2021-06-09 20:28:37   46967347 Evil Chocolate Cookie/Misc/Playing entombed, part 2.mp3
-2021-06-09 20:28:37   35365562 Evil Chocolate Cookie/Misc/Playing entombed.mp3
 2021-06-09 20:28:37  158817798 Evil Chocolate Cookie/Misc/Playing super egg hunt plus.mp3
 2021-06-09 20:28:37   69929319 Evil Chocolate Cookie/Misc/Screaming Strike 2.mp3
 2021-06-09 20:28:37   88230231 Evil Chocolate Cookie/Misc/Survive the Wild stream.mp3
 2021-06-09 20:28:37   76454366 Evil Chocolate Cookie/Misc/The price is wrong for May 1.mp3
 2021-06-09 20:28:37  187379683 Evil Chocolate Cookie/Misc/Trying to stay awake.mp3
+2021-06-12 21:46:04   72916950 Evil Chocolate Cookie/Misc/more random.mp3
+2021-06-12 21:46:04   57466921 Evil Chocolate Cookie/Misc/the randomness stream.mp3
 2021-06-09 20:28:37   84888267 Evil Chocolate Cookie/Paladin of the Sky/01 Playing Paladin of the Sky part 1.mp3
 2021-06-09 20:28:37   55255009 Evil Chocolate Cookie/Paladin of the Sky/02 Playing Paladin of the Sky part 2.mp3
 2021-06-09 20:28:37   83425012 Evil Chocolate Cookie/Paladin of the Sky/03 Playing Paladin of the Sky part 3.mp3
@@ -1484,6 +1498,55 @@
 2021-05-20 06:47:32   17750517 Franklin/Bk 2/BK2 part 24, Puzle time.mp3
 2021-05-20 06:47:32   21893329 Franklin/Bk 2/BK2 part 25, Getting closer and closer to the end.mp3
 2021-05-20 06:47:32   49830347 Franklin/Bk 2/BK2 part 26, The final floor, and, uh, the final battle!.mp3
+2021-06-12 22:53:49   14156349 Gilbert Neiva/Manamon Playthrough/Manamon Part 01 My First Manamon.mp3
+2021-06-12 22:53:46   22120557 Gilbert Neiva/Manamon Playthrough/Manamon Part 02 The Journey Begins.mp3
+2021-06-12 22:53:46   29002581 Gilbert Neiva/Manamon Playthrough/Manamon Part 03 Through the Woods to Hazel Dale City.mp3
+2021-06-12 22:53:46   24806181 Gilbert Neiva/Manamon Playthrough/Manamon Part 04 Chingle Bells and Challenges.mp3
+2021-06-12 22:53:46   33569421 Gilbert Neiva/Manamon Playthrough/Manamon Part 05 Captured by an Evil Organization.mp3
+2021-06-12 22:53:46   22601469 Gilbert Neiva/Manamon Playthrough/Manamon Part 06 A Dramatic Escape.mp3
+2021-06-12 22:53:46   21753957 Gilbert Neiva/Manamon Playthrough/Manamon Part 07 The Journey to Avelette City Part 1.mp3
+2021-06-12 22:53:46   28651581 Gilbert Neiva/Manamon Playthrough/Manamon Part 08 The Journey to Avelette City Conclusion.mp3
+2021-06-12 22:53:46   25633557 Gilbert Neiva/Manamon Playthrough/Manamon Part 09 The Second Challenge.mp3
+2021-06-12 22:54:18   17165277 Gilbert Neiva/Manamon Playthrough/Manamon Part 10 A Disguised Manamon.mp3
+2021-06-12 22:53:46   34755069 Gilbert Neiva/Manamon Playthrough/Manamon Part 11 Into the Fire and Through the Flames.mp3
+2021-06-12 22:53:46   48487725 Gilbert Neiva/Manamon Playthrough/Manamon Part 12 Someone Call CFS.mp3
+2021-06-12 22:53:46   22123101 Gilbert Neiva/Manamon Playthrough/Manamon Part 13 Journey through Brightwater Trail.mp3
+2021-06-12 22:53:46   39823173 Gilbert Neiva/Manamon Playthrough/Manamon Part 14 The Secret Hideout.mp3
+2021-06-12 22:53:46   17288445 Gilbert Neiva/Manamon Playthrough/Manamon Part 15 The Secret Hideout Conclusion.mp3
+2021-06-12 22:53:46   30631389 Gilbert Neiva/Manamon Playthrough/Manamon Part 16 Journey to Brightwater City.mp3
+2021-06-12 22:53:46   26904093 Gilbert Neiva/Manamon Playthrough/Manamon Part 17 The Fourth Stadium Challenge.mp3
+2021-06-12 22:53:46   20880501 Gilbert Neiva/Manamon Playthrough/Manamon Part 18 Tangeria Tower 1st Floor.mp3
+2021-06-12 22:53:46   37327389 Gilbert Neiva/Manamon Playthrough/Manamon Part 19 Tangeria Tower 2nd Floor   3rd Floor.mp3
+2021-06-12 22:53:46   29255853 Gilbert Neiva/Manamon Playthrough/Manamon Part 20 The Arrival of Arodium.mp3
+2021-06-12 22:54:51   16696797 Gilbert Neiva/Manamon Playthrough/Manamon Part 21 Journey to Orienta City Part 1.mp3
+2021-06-12 22:53:46   43163949 Gilbert Neiva/Manamon Playthrough/Manamon Part 22 Journey to Orienta City Conclusion.mp3
+2021-06-12 22:53:47   34342125 Gilbert Neiva/Manamon Playthrough/Manamon Part 23 The Fifth Stadium Challenge.mp3
+2021-06-12 22:53:47   29341773 Gilbert Neiva/Manamon Playthrough/Manamon Part 24 The Manelith Factory Administrator Cage.mp3
+2021-06-12 22:55:25   16659189 Gilbert Neiva/Manamon Playthrough/Manamon Part 25The Manelith Factory Administrator Kuro.mp3
+2021-06-12 22:53:47   48244509 Gilbert Neiva/Manamon Playthrough/Manamon Part 26 The Manelith Factory Kumori Battle and the Rescue from Prison of Frozen Time.mp3
+2021-06-12 22:53:47   35717637 Gilbert Neiva/Manamon Playthrough/Manamon Part 27 Journey to Snowstar City Part 1.mp3
+2021-06-12 22:53:47   29058165 Gilbert Neiva/Manamon Playthrough/Manamon Part 28 Journey to Snowstar City Conclusion.mp3
+2021-06-12 22:53:47   51088197 Gilbert Neiva/Manamon Playthrough/Manamon Part 29 The Destruction of the Sixth Stadium and the Journey to Paladine Point.mp3
+2021-06-12 22:53:47   31145277 Gilbert Neiva/Manamon Playthrough/Manamon Part 30 Journey to Verlerine Town Part 1.mp3
+2021-06-12 22:53:47   20842269 Gilbert Neiva/Manamon Playthrough/Manamon Part 31 Journey to Verlerine Town Part 2.mp3
+2021-06-12 22:53:47   18823581 Gilbert Neiva/Manamon Playthrough/Manamon Part 32 Journey to Verlerine Town Part 3.mp3
+2021-06-12 22:55:56   11386101 Gilbert Neiva/Manamon Playthrough/Manamon Part 33 Journey to Verlerine Town Conclusion.mp3
+2021-06-12 22:53:47   27148653 Gilbert Neiva/Manamon Playthrough/Manamon Part 34 Journey through the Shadow Kingdom Part 1.mp3
+2021-06-12 22:53:47   27982173 Gilbert Neiva/Manamon Playthrough/Manamon Part 35 Journey through the Shadow Kingdom Part 2.mp3
+2021-06-12 22:53:47   24150261 Gilbert Neiva/Manamon Playthrough/Manamon Part 36 Journey through the Shadow Kingdom Part 3.mp3
+2021-06-12 22:53:47   25204533 Gilbert Neiva/Manamon Playthrough/Manamon Part 37 Journey through the Shadow Kingdom Conclusion.mp3
+2021-06-12 22:53:47   30222525 Gilbert Neiva/Manamon Playthrough/Manamon Part 38 Journey to the Master Stadium Part 1.mp3
+2021-06-12 22:53:47   28056717 Gilbert Neiva/Manamon Playthrough/Manamon Part 39 Journey to the Master Stadium Part 2.mp3
+2021-06-12 22:53:47   26713101 Gilbert Neiva/Manamon Playthrough/Manamon Part 40 Journey to the Master Stadium Part 3.mp3
+2021-06-12 22:53:47   25601205 Gilbert Neiva/Manamon Playthrough/Manamon Part 41 Journey to the Master Stadium Conclusion.mp3
+2021-06-12 22:53:47   27422397 Gilbert Neiva/Manamon Playthrough/Manamon Part 42 Challenging Cosmo and the Vibrogen Rocket Launch.mp3
+2021-06-12 22:53:46   27062265 Gilbert Neiva/Six Ages/01 Six Ages Part 1 of 7.mp3
+2021-06-12 22:53:46   36964096 Gilbert Neiva/Six Ages/02 Six Ages Part 2 of 7.mp3
+2021-06-12 22:53:46   31482321 Gilbert Neiva/Six Ages/03 Six Ages Part 3 of 7.mp3
+2021-06-12 22:53:46   24563210 Gilbert Neiva/Six Ages/04 Six Ages Part 4 of 7.mp3
+2021-06-12 22:53:46   31534183 Gilbert Neiva/Six Ages/05 Six Ages Part 5 of 7.mp3
+2021-06-12 22:53:46   45545298 Gilbert Neiva/Six Ages/06 Six Ages Part 6 of 7.mp3
+2021-06-12 22:53:46   21976211 Gilbert Neiva/Six Ages/07 Six Ages Part 7 of 7.mp3
 2021-05-22 12:31:29   23121405 Jake McMahan/Misc/Mobius Mountain.mp3
 2021-05-22 12:31:29   21154526 Jake McMahan/Misc/PCS Shooting Range - The Real Dos Experience.mp3
 2021-05-22 12:31:29   33050689 Jake McMahan/Misc/Super Liam Part 1.mp3
@@ -1697,6 +1760,7 @@
 2021-05-19 21:37:44  102866215 Liam Erven/Rhythm Heaven Fever/Rhythm heaven Fever for April 20, 2020.mp3
 2021-05-19 21:37:44  131464953 Liam Erven/Rhythm Heaven Fever/Rhythm heaven Fever for April 25, 2020.mp3
 2021-05-19 21:37:44  111178568 Liam Erven/Rhythm Heaven Fever/Rhythm heaven Fever for April 26, 2020.mp3
+2021-06-12 21:58:06  121507139 Liam Erven/Rhythm Heaven Fever/Rhythm heaven Your Choice for June 7, 2021.mp3
 2021-05-19 21:37:50  154143093 Liam Erven/Streams/Archive Of Saturday Morning Soulcalibur VI Stream for October 27, 2018.mp3
 2021-05-19 21:37:52  165330343 Liam Erven/Streams/Archive Of Wednesday Night Gaming for July 11, 2018.mp3
 2021-05-19 21:37:49   59004309 Liam Erven/Streams/Archive of Audio Gaming for May 28, 2019.mp3
@@ -1801,6 +1865,7 @@
 2021-05-19 21:37:54   93464509 Liam Erven/Streams/Pitch Black - a Detective's Demise for November 14, 2020.mp3
 2021-05-19 21:37:54  128292381 Liam Erven/Streams/Pokémon Yellow for November 14, 2020.mp3
 2021-06-06 12:51:20   40234397 Liam Erven/Streams/Poptale Weekly for June 2, 2021.mp3
+2021-06-12 21:57:06   97556824 Liam Erven/Streams/Poptale Weekly for June 9, 2021.mp3
 2021-06-06 12:51:20   68581816 Liam Erven/Streams/Rosemary's Fate Demo Chapter 1 for May 27, 2021.mp3
 2021-05-19 21:37:53  119180277 Liam Erven/Streams/Saturday Night Game Streaming 02-18-2017.mp3
 2021-05-19 21:37:54  115008529 Liam Erven/Streams/Sequence Storm for January 20, 2021.mp3
