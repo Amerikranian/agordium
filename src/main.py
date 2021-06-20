@@ -113,7 +113,7 @@ def generate_files():
                 series_file = open(f"{author}.txt", "a")
                 series_file.write(line)
                 series_file.close()
-        elif len(strings) == 2 and line[-5:-1] == ".mp3":
+        elif len(strings) == 2 and line[line.rfind("."):-1].lower() in extensions:
             author = strings[0]
             author_file = open(f"{author}", "a")
             author_file.write(line)
