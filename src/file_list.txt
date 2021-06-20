@@ -842,7 +842,6 @@
 2021-05-19 21:37:59   36805509 Chriss/AudioDefence/Let's play AudioDefence.mp3
 2021-05-20 03:54:24    5996820 Chriss/Basketball/Let's Play Basketball by Mason Armstrong.mp3
 2021-05-19 21:38:04   26497773 Chriss/Bk 2/0 Let's Play BK2 Tutorial Stage.mp3
-2021-05-20 04:55:54    6120933 Chriss/Bk 2/0.5 Let's Play BK2 - Tutorial and Stage 1.mp3
 2021-05-19 21:38:04   19490973 Chriss/Bk 2/01 Let's Play BK 2 Stage 1.mp3
 2021-05-19 21:38:04   39152661 Chriss/Bk 2/02 Let's Play BK2  Stage 2.mp3
 2021-05-19 21:38:04   39172605 Chriss/Bk 2/03 Let's Play BK2 Stage 3.mp3
@@ -891,14 +890,12 @@
 2021-05-20 04:43:18   11871816 Chriss/Bk 3/let's Play BK3 Part 24 Intruder Detected!.mp3
 2021-05-19 21:37:59   18472101 Chriss/Blackbox/Blackbox Overview.mp3
 2021-05-19 21:37:59   30809085 Chriss/Blinded Guide/Let's Play Blinded Guide.mp3
-2021-05-19 21:37:59   35714589 Chriss/Bop It Ultimate/Let's Play Bop It Ultimate.mp3
 2021-05-19 21:37:59   41101035 Chriss/Captain Dynamite and the Fallen Hero/Let's Play Captain Dynamite and the Fallen Hero.mp3
 2021-05-19 21:37:59   19368898 Chriss/Classic Pipe/Let's Play Classic Pipe.mp3
 2021-05-19 21:37:59   26521946 Chriss/Classic Troopanum/Let's Play Classic Troopanum.mp3
 2021-05-19 21:37:59   21679443 Chriss/Crafting Kingdom/Let's Play Crafting Kingdom.mp3
 2021-05-19 21:38:04   24309693 Chriss/Crazy Party/Crazy Party Overview Part 2 micro and board games.mp3
 2021-05-19 21:38:04   54001629 Chriss/Crazy Party/Crazy Party Overview part 1 Battles and Minigames.mp3
-2021-05-19 21:37:59   62152010 Chriss/Crime Hunter/Let's Play Crime Hunter by Mason Armstrong.mp3
 2021-05-19 21:37:59   19106086 Chriss/Dark Destroyer/Let's Play Dark Destroyer.mp3
 2021-05-19 21:38:03   50575629 Chriss/Descent into Madness/Let's Play Descent into Madness Part 1 The Subject is on the Loose!.mp3
 2021-05-19 21:38:03   19708557 Chriss/Descent into Madness/Let's Play Descent into Madness part 2 We escaped, but is it really over.mp3
@@ -1013,7 +1010,6 @@
 2021-05-19 21:38:02   34282312 Chriss/Manamon/Let's Play manamon part 61 Administrator Beatdown!.mp3
 2021-05-19 21:37:59   27740301 Chriss/Minefield/Let's Play Minefield.mp3
 2021-05-19 21:37:59   23378080 Chriss/Mysteries of The Ancients/Let's Play Mysteries of The Ancients.mp3
-2021-05-19 21:37:59   46274325 Chriss/Oh Shit/Let's Play Oh Shit!.mp3
 2021-05-19 21:37:58   21830373 Chriss/Palace Punchup/Let's Play Palace Punchup.mp3
 2021-05-19 21:38:01   27052413 Chriss/Paladin of the Sky/Let's Play Paladin of the Sky part 05 it's all fun and games.mp3
 2021-05-19 21:38:01   51229845 Chriss/Paladin of the Sky/Let's Play Paladin of the Sky part 14 he shall trouble us no more.mp3
@@ -1045,7 +1041,6 @@
 2021-05-20 04:17:25   14729373 Chriss/Q 9/Let's Play Q9 Part 3 - The Mountain World.mp3
 2021-05-19 21:38:00   26756061 Chriss/Q 9/Let's Play Q9 Part 4 - The Death World.mp3
 2021-05-20 04:17:15   15959229 Chriss/Q 9/Let's Play Q9 part 2 - The Cave World.mp3
-2021-05-19 21:38:00   49065021 Chriss/Q 9/Let's play Q9 Swedish Version.mp3
 2021-05-19 21:37:59   27816573 Chriss/Quentin C Playroom/0 QUentin C Playroom Part 1.mp3
 2021-05-19 21:37:59   32859549 Chriss/Quentin C Playroom/01 Let's play Quentin C Playroom part 2.mp3
 2021-05-20 03:55:33    6535029 Chriss/ScapeSkate/Failing at ScapeSkate.mp3
@@ -2060,6 +2055,10 @@
 2021-05-19 21:38:16     897645 Misc Playthroughs/Swamp/Swamp Recordings 03/firepaw levels.mp3
 2021-05-19 21:37:35   21433005 Misc Playthroughs/Swamp/Swamp Recordings 03/firepaws adventure2020-01-03_03-00-38.mp3
 2021-05-19 21:38:15    4331920 Misc Playthroughs/Swamp/Swamp Recordings 03/map1-to-map5_no-healing_no-armor1.mp3
+2021-06-20 10:08:40   13613503 Misc Playthroughs/misc/Microsoft sam plays bloodbath.mp3
+2021-06-20 10:09:56   37504984 Misc Playthroughs/misc/Playing some branble.mp3
+2021-06-20 10:04:10   35571547 Misc Playthroughs/misc/Supershot.mp3
+2021-06-20 10:04:10   18209544 Misc Playthroughs/misc/WinFootball.mp3
 2021-05-19 21:37:44   39541834 Mr. Brunete/Bk 1/bk playthrough part01.mp3
 2021-05-19 21:37:43   38096123 Mr. Brunete/Bk 1/bk playthrough part02.mp3
 2021-05-19 21:37:43   24655694 Mr. Brunete/Bk 1/bk playthrough part03.mp3
@@ -2193,6 +2192,7 @@
 2021-05-19 22:02:56    9493569 Philip Bennefall/palace_punch-up_preview.mp3
 2021-05-19 21:37:37   42467579 Philip Bennefall/perilous_hearts_pre_demo.mp3
 2021-05-19 21:37:37   80678706 Philip Bennefall/q9_full_demo.mp3
+2021-06-20 10:00:22   37705350 Philip Bennefall/super_tennis_review.mp3
 2021-05-19 22:02:08   13044607 Raul/Hunter/Raul Hunter July 22 2006.wma
 2021-05-19 21:37:37   22432903 Raul/Hunter/Raul Hunter July 25 2006.wma
 2021-05-19 22:02:11   12745807 Raul/Hunter/Raul kids Hunter July 20 2006.wma
@@ -2274,6 +2274,10 @@
 2021-05-19 21:37:36   47252880 Sapergia/entombed review by Kelly Sapergia.mp3
 2021-05-19 21:37:36   46078119 Sapergia/q9 review by kelly sapergia.mp3
 2021-05-19 21:37:36   20031198 Sapergia/shades of doom review by Kelly Sapergia.mp3
+2021-06-20 10:13:24   28812885 Sediment/an early morning walk through the bramble bushes.mp3
+2021-06-20 10:13:24   41046771 Sediment/here's part 2 of this random thing.mp3
+2021-06-20 10:13:24   30981477 Sediment/hopelessly lost betwixt the brambles.mp3
+2021-06-20 10:13:24   32179767 Sediment/playing with a little tarzan. .mp3
 2021-05-26 09:39:29   76858521 Steven D/Awesome Homer.mp3
 2021-05-26 09:39:29   93538521 Steven D/BK3/BK3 Part 1.mp3
 2021-05-26 09:39:29  173885127 Steven D/BK3/BK3 Part 10.mp3
