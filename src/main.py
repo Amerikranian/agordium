@@ -23,13 +23,32 @@ def generate_index():
 <p>The only rule is to please refrain from mass downloading all of the files available here. Using automated tools such as scripts, Curl, Wget, etc for the automating of downloads is strongly discouraged.</p>
 <p>In other words, if you use the website as normal, downloading few files and listening to them at a time is perfectly fine and is why this site exists.</p>
 <p>In the event this request is not honored, the files will be blocked from being downloaded for the remainder of a month the violation takes place. Example,  on June 10 we notice people mass downloaded files, the files will not download for the remainder of June. They will be back in July.</p>
-<h2>A Note to Authors</h2>
-<p>An archive of recordings from a number of authors has been provided here. We do not intend to steal content from creators. If you, an author, has a problem with us hosting and listing content here, please feel free to contact us.</p>
+<h2>A Note to Content Creators</h2>
+<p>An archive of recordings from a number of content creators has been provided here. We do not intend to steal content from creators. If you, a creator, has a problem with us hosting and listing content here, please feel free to contact us.</p>
 <h2>Contacting Us</h2>
 <p>You can now contact us using this <a href="https://forms.gle/ye5pxqwdakAYNr5g8">contact form.</a> Send us suggestions, recordings, or feedback about this project.</p>
 <p>You can also contact us through <a href="https://forum.audiogames.net/topic/40657/game-recordings-repository-anyone-consider-doing-it/">this post</a> on the Audio Games forum. Just post a reply if you have an account and we'll see it.</p>
 <p>If you want to increase this collection, we're happy to talk to you about missing content, or if you want to record your own content.</p>
-<h2>Author Listing</h2>
+<h2>Please Support These Creators</h2>
+<p>We appreciate you checking out this website. However, before anything, we feel it important to point you to where many of these creators originally host their content so that you may support them.</p>
+<p>If you are a creator and you wish your content-hosting platform is listed, please contact us.</p>
+<p>This listing only includes content sources that currently exist and are live.</p>
+<ul>
+<li><a href="https://www.youtube.com/c/44KLetsPlays">44K LetsPlays YouTube</a></li>
+<li><a href="https://www.kaldobsky.com/ssl/audiogames.php">Aprone's Website</a></li>
+<li><a href="https://www.youtube.com/channel/UCNbcgG4B9D4DTtIOXrnjUqQ">Audiogame edits YouTube</a></li>
+<li>Brandon Cole <a href="https://www.youtube.com/channel/UCbJy3rXhAbRwG85D3yceS5A">YouTube</a> <a href="https://www.twitch.tv/superblindman/">Twitch</a></li>
+<li><a href="https://blackscreengaming.com/">Black Screen Gaming (BSG)</a></li>
+<li><a href="https://www.youtube.com/channel/UCDWOwfwJ18lQiXRubVBEFkw">Chris Wright YouTube></a></li>
+<li><a href="https://www.youtube.com/channel/UCeNPXAts2OyU64yPUiL-faw">Evangelosz Nagy YouTube</a></li>
+<li><a href="https://www.youtube.com/channel/UC0fNzoN5T_VwX08CI-xJUzg">The Evil Chocolate Cookie YouTube</a></li>
+<li><a href="https://www.youtube.com/channel/UCrI_FoGiniXlCa817LhB7OA">Gilbert Neiva YouTube</a></li>
+<li>Liam Erven <a href="https://www.youtube.com/user/liamerven">YouTube</a> <a href="https://www.twitch.tv/liamerven">Twitch</a></li>
+<li><a href="https://pg13lp.com/">pg13lp Website</a></li>
+<li><a href="http://samtupy.com/">Sam Tupy Website</a></li>
+<li><a href="https://stevend.net/">Steven D Website</a></li>
+</ul>
+<h2>Creator Listing</h2>
 <ul>
     """
     with os.scandir() as files:
