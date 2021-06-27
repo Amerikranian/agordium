@@ -35,8 +35,9 @@ def generate_index():
 <p>This listing only includes content sources that currently exist and are live.</p>
 <ul>
 <li><a href="https://www.youtube.com/c/44KLetsPlays">44K LetsPlays YouTube</a></li>
-<li><a href="https://www.kaldobsky.com/ssl/audiogames.php">Aprone's Website</a></li>
+<li>Aprone <a href="https://www.kaldobsky.com/ssl/audiogames.php">Website</a> <a href="https://www.youtube.com/user/TheAprone">YouTube</a></li>
 <li><a href="https://www.youtube.com/channel/UCNbcgG4B9D4DTtIOXrnjUqQ">Audiogame edits YouTube</a></li>
+<li><a href="https://www.youtube.com/channel/UCB1L76VgaXxCfwZX3VqiqeQ">Audiogame Extraordinaire YouTube</a></li>
 <li>Brandon Cole <a href="https://www.youtube.com/channel/UCbJy3rXhAbRwG85D3yceS5A">YouTube</a> <a href="https://www.twitch.tv/superblindman/">Twitch</a></li>
 <li><a href="https://blackscreengaming.com/">Black Screen Gaming (BSG)</a></li>
 <li><a href="https://www.youtube.com/channel/UCDWOwfwJ18lQiXRubVBEFkw">Chris Wright YouTube></a></li>
@@ -44,7 +45,7 @@ def generate_index():
 <li><a href="https://www.youtube.com/channel/UC0fNzoN5T_VwX08CI-xJUzg">The Evil Chocolate Cookie YouTube</a></li>
 <li><a href="https://www.youtube.com/channel/UCrI_FoGiniXlCa817LhB7OA">Gilbert Neiva YouTube</a></li>
 <li>Liam Erven <a href="https://www.youtube.com/user/liamerven">YouTube</a> <a href="https://www.twitch.tv/liamerven">Twitch</a></li>
-<li><a href="https://pg13lp.com/">pg13lp Website</a></li>
+<li>PG13LP <a href="https://pg13lp.com/">Website</a> <a href="https://www.youtube.com/channel/UCwsmTHviOiomYiRW0WPyqfA">Youtube</a></li>
 <li><a href="http://samtupy.com/">Sam Tupy Website</a></li>
 <li><a href="https://stevend.net/">Steven D Website</a></li>
 </ul>
