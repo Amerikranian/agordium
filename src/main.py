@@ -45,6 +45,7 @@ def generate_index():
 <li><a href="https://www.youtube.com/channel/UC0fNzoN5T_VwX08CI-xJUzg">The Evil Chocolate Cookie YouTube</a></li>
 <li><a href="https://www.youtube.com/channel/UCrI_FoGiniXlCa817LhB7OA">Gilbert Neiva YouTube</a></li>
 <li>Liam Erven <a href="https://www.youtube.com/user/liamerven">YouTube</a> <a href="https://www.twitch.tv/liamerven">Twitch</a></li>
+<li>Orinks <a href="https://www.youtube.com/user/Orinks">YouTube</a> <a href="https://www.twitch.tv/orinks1">Twitch</a></li>
 <li>PG13LP <a href="https://pg13lp.com/">Website</a> <a href="https://www.youtube.com/channel/UCwsmTHviOiomYiRW0WPyqfA">Youtube</a></li>
 <li><a href="http://samtupy.com/">Sam Tupy Website</a></li>
 <li><a href="https://stevend.net/">Steven D Website</a></li>
