@@ -1509,7 +1509,6 @@
 2021-05-23 20:26:30   27335504 Evangelosz Nagy/Troopanum/Troopanum Ambient Challenge w Evangelosz Nagy.mp3
 2021-05-19 21:37:54   24135262 Everstorm/Branble/the totality, I mean branble concept part 1.mp3
 2021-05-19 21:37:55   22361025 Everstorm/Branble/the totality, I mean branble concept part 2.mp3
-2021-06-21 20:27:03  788616045 Everstorm/The Vale/The Vale Complete Gameplay.mp3
 2021-05-19 21:37:54  238674861 Everstorm/Tomb Hunter/Tomb hunter gameplay by everstorm.mp3
 2021-06-12 21:41:00          0 Evil Chocolate Cookie/Entombed/
 2021-06-12 21:45:28   75581374 Evil Chocolate Cookie/Entombed/More entombed.mp3
@@ -2110,6 +2109,9 @@
 2021-05-20 06:31:23   40944349 Matthew Campbell/Manamon I/Manamon Part 54.mp3
 2021-05-20 06:31:23   27164557 Matthew Campbell/Manamon I/Manamon Part 55.mp3
 2021-05-20 06:38:04    2466061 Matthew Campbell/Manamon I/Manamon Part 56.mp3
+2021-07-03 10:35:10    8373919 Misc Playthroughs/BSC Games/Hunter Game Review.mp3
+2021-07-03 10:35:13   14335898 Misc Playthroughs/BSC Games/Pipe 2 Game Review.mp3
+2021-07-03 10:35:17    4812880 Misc Playthroughs/BSC Games/Troopanum 2 Game Review.mp3
 2021-05-19 21:37:35   36625197 Misc Playthroughs/Q9/Let's Play Q 9 Part 1.mp3
 2021-05-19 21:37:35   45111683 Misc Playthroughs/Q9/Let's Play Q 9 Part 2.mp3
 2021-05-19 21:37:35   30985956 Misc Playthroughs/Q9/Let's Play Q 9 Part 3.mp3
@@ -2228,6 +2230,7 @@
 2021-07-02 13:00:07  110045786 Orinks/Madden NFL 19 Eagles Franchise/Madden NFL 19 _ Eagles Franchise Preseason week 2 VS. Patriots.mp3
 2021-07-02 13:00:07   35072329 Orinks/Madden NFL 19 Eagles Franchise/Madden NFL Eagles Franchise week 8 VS. Jacksonville Jaguars.mp3
 2021-07-02 13:00:06   43048707 Orinks/Misc/Feer the Game first two missions, a bit of three.mp3
+2021-07-03 10:46:36   28773700 Orinks/Misc/Madden NFL 18 - Carson Wentz Franchise _ Week 5 _ dominating Cardinals.mp3
 2021-07-02 13:10:02    7189943 Orinks/Misc/TDV Training.mp3
 2021-07-02 13:02:43   11389722 Orinks/Mortal Kombat X/Mortal Kombat X - Let's Have a Party.mp3
 2021-07-02 13:00:06   24698418 Orinks/Mortal Kombat X/Mortal Kombat X - Scorpian Invasion boss, completing the Invasion tower and part of the war tower, oh.mp3
