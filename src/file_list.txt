@@ -1306,6 +1306,19 @@
 2021-05-22 10:12:35   27389292 Drew/Shades of Doom/Let's Play Shades Of Doom! level 1.mp3
 2021-05-22 10:12:43   16693129 Drew/Shades of Doom/Let's Play Shades Of Doom! level 2 Part 2.mp3
 2021-05-19 21:37:55   34006037 Drew/Swamp/Drews Tutorial for Swamp.mp3
+2021-07-21 10:36:37   13039868 Edgar and Jose/Awesome Homer.mp3
+2021-07-21 10:36:41   11251531 Edgar and Jose/Bebot Demo.mp3
+2021-07-21 10:36:35   54654850 Edgar and Jose/Entombed.mp3
+2021-07-21 10:36:35  212387634 Edgar and Jose/Interview with Sam.mp3
+2021-07-21 10:36:35   30213955 Edgar and Jose/Kitchensinc Demonstrations - The Casino Game.mp3
+2021-07-21 10:36:45   11391059 Edgar and Jose/Kitchensinc life.mp3
+2021-07-21 10:36:35   22902908 Edgar and Jose/Monopoly demo.mp3
+2021-07-21 10:36:35  158770731 Edgar and Jose/Psycho Strike.mp3
+2021-07-21 10:36:35   35256947 Edgar and Jose/Q9 Demo.mp3
+2021-07-21 10:36:35   30037890 Edgar and Jose/Quinten C Play Room.mp3
+2021-07-21 10:36:48    5655405 Edgar and Jose/Reaction demo.mp3
+2021-07-21 10:36:35   99313111 Edgar and Jose/Silver Dollar.mp3
+2021-07-21 10:36:35   26272078 Edgar and Jose/The NightJar Playthrough.mp3
 2021-05-22 09:51:06   60202018 Emargy/Code 7/01 Allocation _ Code 7 Episode 0.mp3
 2021-05-22 09:51:06   55330028 Emargy/Code 7/02 Oriens Station _ Code 7 Episode 1 - Threading Part #01.mp3
 2021-05-22 09:51:05   65713028 Emargy/Code 7/03 Science Department _ Code 7 Episode 1 - Threading Part #02.mp3
@@ -2621,6 +2634,7 @@
 2021-05-19 21:37:36   47252880 Sapergia/entombed review by Kelly Sapergia.mp3
 2021-05-19 21:37:36   46078119 Sapergia/q9 review by kelly sapergia.mp3
 2021-05-19 21:37:36   20031198 Sapergia/shades of doom review by Kelly Sapergia.mp3
+2021-07-21 10:45:26  248266752 Sarah Alawami/Audio Defense playthrough.MP3
 2021-07-07 08:09:33   92831397 Sarah Alawami/BK iii playthrough on exciting mode/BK-III stage 23  (stream).mp3
 2021-07-07 08:09:33  161088957 Sarah Alawami/BK iii playthrough on exciting mode/BK-iii play through on exciting level stage 6 (stream link).mp3
 2021-07-07 08:09:33  175829301 Sarah Alawami/BK iii playthrough on exciting mode/BK-iii stage 11 to stage 13-4 on exciting level.mp3
