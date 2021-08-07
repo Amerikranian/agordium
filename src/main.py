@@ -42,8 +42,9 @@ def generate_index():
 <li><a href="https://blackscreengaming.com/">Black Screen Gaming (BSG)</a></li>
 <li><a href="https://www.youtube.com/channel/UCDWOwfwJ18lQiXRubVBEFkw">Chris Wright YouTube></a></li>
 <li><a href="https://www.youtube.com/channel/UCeNPXAts2OyU64yPUiL-faw">Evangelosz Nagy YouTube</a></li>
-<li><a href="https://www.youtube.com/channel/UC0fNzoN5T_VwX08CI-xJUzg">The Evil Chocolate Cookie YouTube</a></li>
+<li><a href="https://www.youtube.com/channel/UC0fNzoN5T_VwX08CI-xJUzg">Evil Chocolate Cookie YouTube</a></li>
 <li><a href="https://www.youtube.com/channel/UCrI_FoGiniXlCa817LhB7OA">Gilbert Neiva YouTube</a></li>
+<li><a href="https://www.youtube.com/channel/UCx-2KuqTyJylJAl8lwwJgww">Kavya YouTube</a></li>
 <li>Liam Erven <a href="https://www.youtube.com/user/liamerven">YouTube</a> <a href="https://www.twitch.tv/liamerven">Twitch</a></li>
 <li>Orinks <a href="https://www.youtube.com/user/Orinks">YouTube</a> <a href="https://www.twitch.tv/orinks1">Twitch</a></li>
 <li>PG13LP <a href="https://pg13lp.com/">Website</a> <a href="https://www.youtube.com/channel/UCwsmTHviOiomYiRW0WPyqfA">Youtube</a></li>
