@@ -51,6 +51,7 @@ def generate_index():
 <li><a href="http://samtupy.com/">Sam Tupy Website</a></li>
 <li><a href="https://www.youtube.com/channel/UCqr0Igol9df3CC_QsPyuv_g">Sarah Alawami YouTube</a></li>
 <li><a href="https://stevend.net/">Steven D Website</a></li>
+<li><a href="https://www.youtube.com/channel/UCCIMEu3mUuoNrvCIqm0wv3A/">The Audio Game Club- For Blind Gamers Everywhere YouTube</a></li>
 </ul>
 <h2>Creator Listing</h2>
 <ul>
