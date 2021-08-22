@@ -70,6 +70,7 @@
 2021-05-19 19:22:10  287193756 Amerikranian/Paladin of the Sky/paladin002.mp3
 2021-08-06 22:15:35  117115865 Amerikranian/SBYW Challenge Gems/01 Taking Shoes On and Off III, Banging Your Head Against The Wall, BSHouse, Taking SHoes On and Off II, We Rockin, InsideBSHouse.mp3
 2021-08-14 21:59:34   59674167 Amerikranian/SBYW Challenge Gems/02 Flunk The World, What Happens When You Have the Runs.mp3
+2021-08-21 19:01:29   94957759 Amerikranian/SBYW Misc/Contest Maps Impressions.mp3
 2021-05-19 19:22:10   92570017 Amerikranian/Sarah and the Castle of Witchcraft and Wizardry/SARAH.MP3
 2021-05-19 19:22:10   66189773 Amerikranian/Skullgirls/Skullgirls May 3.mp3
 2021-05-19 19:22:10   81883210 Amerikranian/Skullgirls/Skullgirls May 5.mp3
@@ -1188,6 +1189,9 @@
 2021-05-19 21:38:00   58923296 Chriss/The Gate/Let's play The Gate part 4 A Sacrifice is Required.mp3
 2021-05-19 21:38:00   77987901 Chriss/The Gate/Let's play The Gate part 5 this is tedious!.mp3
 2021-05-20 03:46:31   13796037 Chriss/The Great Cheese Robbery/Let's play The Great Cheese Robbery.mp3
+2021-08-21 19:05:39   66869522 Chriss/The Vale/01 Let's Play The Vale Part 1 The Adventure Begins.mp3
+2021-08-21 19:05:39   64667971 Chriss/The Vale/02 Let's Play The Vale Part 2 We have a Hostage.mp3
+2021-08-22 18:16:01  102051571 Chriss/The Vale/03 Let's Play The Vale Part 3 Battle for Power.mp3
 2021-05-19 21:37:58   45423285 Chriss/TheGame nothing is as it seems/TheGame nothing is as it seems.mp3
 2021-05-19 21:38:00   46805997 Chriss/Three D Velocity/Let's Play Three D Velocity part 1 I'm a newbie pilot.mp3
 2021-05-19 21:38:00   37700349 Chriss/Three D Velocity/Let's Play Three D Velocity part 2 Wait, that's not supposed to happen during training!.mp3
@@ -1991,6 +1995,9 @@
 2021-05-19 21:37:54  168816527 Liam Erven/Streams/Fury Driver - Moonwalks For January 9, 2021.mp3
 2021-06-06 12:51:20  136317511 Liam Erven/Streams/Fury Driver 2 - Original Sin For April 19, 2021.mp3
 2021-06-06 12:51:20   82770175 Liam Erven/Streams/Fury Driver 2 - Original Sin For April 20, 2021.mp3
+2021-08-21 19:11:07   82226233 Liam Erven/Streams/Hearthstone for August 10, 2021.mp3
+2021-08-21 19:11:07   79190354 Liam Erven/Streams/Hearthstone for August 6, 2021.mp3
+2021-08-21 19:11:07  104645704 Liam Erven/Streams/Hearthstone for August 9, 2021.mp3
 2021-06-06 12:51:20   85591061 Liam Erven/Streams/Hell Hunter - Anti-Nomen For April 5, 2021.mp3
 2021-05-19 21:37:54   99475016 Liam Erven/Streams/Hell Hunter - Anti-Nomen demo for March 5, 2021.mp3
 2021-05-19 21:37:54  157999554 Liam Erven/Streams/Jackbox Party Pack 7 For December 27, 2020.mp3
@@ -2004,6 +2011,7 @@
 2021-05-19 21:37:53   44763187 Liam Erven/Streams/Live Demonstration of Brain Station.mp3
 2021-05-19 21:37:54  178476064 Liam Erven/Streams/Lost and Hound For November 8, 2020.mp3
 2021-06-06 12:51:20  120194609 Liam Erven/Streams/Lost in Blindness for May 21, 2021.mp3
+2021-08-22 18:12:00   98153781 Liam Erven/Streams/Madden 22 for August 12, 2021.mp3
 2021-05-19 21:37:54  162183111 Liam Erven/Streams/Monday Night Crazy Party for November 9, 2020.mp3
 2021-05-19 21:37:53  167618791 Liam Erven/Streams/Monday Night Crazy Party from October 23, 2017.mp3
 2021-05-19 21:37:53   90097581 Liam Erven/Streams/Monday Night Soulcalibur VI Stream for October 22, 2018.mp3
@@ -2040,6 +2048,7 @@
 2021-05-19 21:37:50  103113429 Liam Erven/Streams/archive of Friday Morning Eurofly for March 15, 2019.mp3
 2021-05-19 21:37:50   82001403 Liam Erven/Streams/archive of Pre Gamer Grace Stream.mp3
 2021-06-06 12:51:20  112704396 Liam Erven/Streams/crazy Party with viewers For March 31, 2021.mp3
+2021-08-21 19:11:07   85175263 Liam Erven/Streams/hearthstone for August 13, 2021.mp3
 2021-08-06 22:07:26   26070513 Liam Erven/Streams/let's Hang out for July 15, 2021 - Animal Rescue.mp3
 2021-05-20 00:29:48    9424920 Liam Erven/Super Egg Hunt/Let's Play Super Egg Hunt Part 0   Which Came first.mp3
 2021-05-20 00:29:51    6394845 Liam Erven/Super Egg Hunt/Let's Play Super Egg Hunt Part 01   Feeling Normal.mp3
@@ -2536,6 +2545,7 @@
 2021-05-19 21:37:38  184525443 Pg13 lp/Streams/PG13 battle constantly.mp3
 2021-05-19 21:37:42   96833627 Pg13 lp/Streams/PG13 command forgotten Islands.mp3
 2021-05-19 21:37:43   85474266 Pg13 lp/Streams/PG13 demise some detective.mp3
+2021-08-21 19:02:43   85268422 Pg13 lp/Streams/PG13 discover Rosemary's fate.mp3
 2021-05-19 21:37:43  156346147 Pg13 lp/Streams/PG13 drive furiously over Scarlet Shells.mp3
 2021-05-19 21:37:43  188840712 Pg13 lp/Streams/PG13 drive furiously.mp3
 2021-05-19 21:37:42  136866459 Pg13 lp/Streams/PG13 explore the city of flesh.mp3
@@ -2547,8 +2557,10 @@
 2021-05-19 21:37:42  192450910 Pg13 lp/Streams/PG13 quest blindly.mp3
 2021-05-19 21:37:42   64177773 Pg13 lp/Streams/PG13 race through Space.mp3
 2021-05-19 21:37:43   88689126 Pg13 lp/Streams/PG13 tests Ghorth's new internet.mp3
+2021-08-21 19:02:44  113744655 Pg13 lp/Streams/PG13 try not to get Lost In Blindness.mp3
 2021-05-19 21:37:43  138731662 Pg13 lp/Streams/PG13 try to avoid drama in the west again.mp3
 2021-05-19 21:37:43  190018291 Pg13 lp/Streams/PG13 try to avoid drama in the west.mp3
+2021-08-21 19:02:43  212145410 Pg13 lp/Streams/PG13 unvale the Vale.mp3
 2021-05-19 21:37:38  304017031 Pg13 lp/Streams/PG13-In-The-Kitchen.mp3
 2021-05-19 21:37:38  312448104 Pg13 lp/Streams/PG13-Invade-Space.mp3
 2021-05-19 21:37:39  202776659 Pg13 lp/Streams/PG13-Play-Experimental-Audio-Games.mp3
