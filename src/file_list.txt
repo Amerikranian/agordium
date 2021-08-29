@@ -59,6 +59,8 @@
 2021-05-19 19:22:10  147741780 Amerikranian/BK3/BK3 Part 04.mp3
 2021-05-19 19:22:10   89944816 Amerikranian/BK3/BK3 Part 05.mp3
 2021-05-19 19:22:10  129151478 Amerikranian/BK3/BK3 Part 06.mp3
+2021-08-28 22:31:52  226472855 Amerikranian/Crazy Party with Speedhack/01-let's cheat!.mp3
+2021-08-28 22:31:52  212080222 Amerikranian/Crazy Party with Speedhack/02-I suck!.mp3
 2021-08-21 01:04:01  136827298 Amerikranian/Crazy Party/Light in the Dark.mp3
 2021-05-19 19:22:10   41783380 Amerikranian/Manamon 2/Manamon 2 part 01.mp3
 2021-05-19 19:22:10   56364408 Amerikranian/Manamon 2/Manamon 2 part 02.mp3
@@ -564,6 +566,8 @@
 2021-05-24 16:18:39   59791237 Brandon Cole/Brandon Cole/Weekly Party Pack Day/Totally Blind Gamer hosts weekly Party Pack day Episode 12.mp3
 2021-05-19 20:09:26   31953526 Brendan Smith/Adventure at C/Adventure at c walk through by Brendan Smith and Lauren Downie.mp3
 2021-05-19 20:09:26   37243217 Brendan Smith/Battles Zone/Battle zone walk through by Brendan Smith and Lauren Downie.mp3
+2021-08-28 22:13:56   32599808 Brendan Smith/Eurofly/Part 1.mp3
+2021-08-28 22:13:56   62804288 Brendan Smith/Eurofly/Part 2.mp3
 2021-06-12 21:30:54   38104966 Brendan Smith/Misc/Awesome Homer walkthrough.mp3
 2021-06-12 21:30:54   35093735 Brendan Smith/Misc/Christmas special.mp3
 2021-06-12 21:30:54   48523180 Brendan Smith/Misc/Time Adventures Review.mp3
@@ -1192,6 +1196,8 @@
 2021-08-21 19:05:39   66869522 Chriss/The Vale/01 Let's Play The Vale Part 1 The Adventure Begins.mp3
 2021-08-21 19:05:39   64667971 Chriss/The Vale/02 Let's Play The Vale Part 2 We have a Hostage.mp3
 2021-08-22 18:16:01  102051571 Chriss/The Vale/03 Let's Play The Vale Part 3 Battle for Power.mp3
+2021-08-28 22:26:40   93510197 Chriss/The Vale/04 Let's Play The Vale Part 4 The Baker Got Baked!.mp3
+2021-08-28 22:26:39   75629306 Chriss/The Vale/05 Let's Play The Vale Part 5 It's Hammer Time.mp3
 2021-05-19 21:37:58   45423285 Chriss/TheGame nothing is as it seems/TheGame nothing is as it seems.mp3
 2021-05-19 21:38:00   46805997 Chriss/Three D Velocity/Let's Play Three D Velocity part 1 I'm a newbie pilot.mp3
 2021-05-19 21:38:00   37700349 Chriss/Three D Velocity/Let's Play Three D Velocity part 2 Wait, that's not supposed to happen during training!.mp3
@@ -2560,6 +2566,7 @@
 2021-08-21 19:02:44  113744655 Pg13 lp/Streams/PG13 try not to get Lost In Blindness.mp3
 2021-05-19 21:37:43  138731662 Pg13 lp/Streams/PG13 try to avoid drama in the west again.mp3
 2021-05-19 21:37:43  190018291 Pg13 lp/Streams/PG13 try to avoid drama in the west.mp3
+2021-08-28 22:19:17  154356796 Pg13 lp/Streams/PG13 unvale the Vale part 2.mp3
 2021-08-21 19:02:43  212145410 Pg13 lp/Streams/PG13 unvale the Vale.mp3
 2021-05-19 21:37:38  304017031 Pg13 lp/Streams/PG13-In-The-Kitchen.mp3
 2021-05-19 21:37:38  312448104 Pg13 lp/Streams/PG13-Invade-Space.mp3
