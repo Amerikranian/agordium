@@ -1,6 +1,10 @@
+# Agordium
+
+A website linking to an s3 archive of Audiogame recordings
+
 ## How It Works
 
-The script in this folder obviously requires Python. It is designed to simplify generating files for the audio game recordings archive.
+The script the src folder obviously requires Python. It is designed to simplify generating files for the audio game recordings archive.
 
 It uses helper text files to keep track of lists, and generates HTML files according to the text files. Clean up should run smoothly.
 
