@@ -1216,6 +1216,11 @@
 2021-05-19 21:38:00   42432669 Chriss/Top Speed/Let's play Top Speed 3 part 1 Start your engines!.mp3
 2021-05-19 21:37:58   85177293 Chriss/Treasure Hunt/Let's Play Treasure Hunt.mp3
 2021-05-19 21:37:58   38577669 Chriss/Troopanum 2/Let's Play Troopanum2.mp3
+2021-08-31 18:11:09   97704621 Crashmaster/The Vale/01 from intro to braga.mp3
+2021-08-31 18:11:09  108300717 Crashmaster/The Vale/02 rivertown.mp3
+2021-08-31 18:11:09   44952813 Crashmaster/The Vale/03 to crow.mp3
+2021-08-31 18:11:09   96336621 Crashmaster/The Vale/04 crow to greely.mp3
+2021-08-31 18:11:09  196680429 Crashmaster/The Vale/05 greely to end.mp3
 2021-05-22 12:27:59          0 Damien Garwood/
 2021-05-22 12:29:12   29972898 Damien Garwood/15 Numbers.mp3
 2021-05-22 12:29:12    8066612 Damien Garwood/3D Snake.mp3
@@ -1717,6 +1722,32 @@
 2021-05-20 03:01:30   10039723 Key is full/Perilous Hearts/kill the animals playthrough.mp3
 2021-05-20 03:00:47    7415125 Key is full/Screaming Strike/screaming strike.mp3
 2021-05-20 03:00:13   13339271 Key is full/Technoshock/ts letsplay.ogg
+2021-08-31 18:11:11    9075566 La Mort/Entombed/Afroholic the Ogre Litch Fight Slow Speech.mp3
+2021-08-31 18:11:08   30660648 La Mort/Entombed/Battle 3rd floor.mp3
+2021-08-31 18:11:13    6860434 La Mort/Entombed/Deth Final Battle Good Quality Slow Speech.mp3
+2021-08-31 18:11:15    6521626 La Mort/Entombed/Douglas the Assassin Final Fight.mp3
+2021-08-31 18:11:08   38452661 La Mort/Entombed/Floor 1-4.mp3
+2021-08-31 18:11:08   43593141 La Mort/Entombed/Floor 12-16.mp3
+2021-08-31 18:11:08   46382108 La Mort/Entombed/Floor 16-22.mp3
+2021-08-31 18:11:09   40056140 La Mort/Entombed/Floor 22-25.mp3
+2021-08-31 18:11:09   51600408 La Mort/Entombed/Floor 25 with Ultimate Final Fight.mp3
+2021-08-31 18:11:18   17104645 La Mort/Entombed/Floor 25.mp3
+2021-08-31 18:11:08   44400856 La Mort/Entombed/Floor 8-12.mp3
+2021-08-31 18:11:08   45123290 La Mort/Entombed/How to Shop for the Undead Slaves You Want.mp3
+2021-08-31 18:11:21    1991366 La Mort/Entombed/How to Smash Spiders.mp3
+2021-08-31 18:11:23    5574113 La Mort/Entombed/Killer Halfling.mp3
+2021-08-31 18:11:09   45959863 La Mort/Entombed/Live Broadcast for Sept 7.mp3
+2021-08-31 18:11:28    3707136 La Mort/Entombed/Ogmok's Quick Demise.mp3
+2021-08-31 18:11:33     548676 La Mort/Entombed/Puppy Fight.mp3
+2021-08-31 18:11:34    4856773 La Mort/Entombed/Sadders.mp3
+2021-08-31 18:11:40    2403683 La Mort/Entombed/Shadow Versus Drake.mp3
+2021-08-31 18:11:39   10735698 La Mort/Entombed/Shadow and the Litch's Brief Life.mp3
+2021-08-31 18:11:47     532062 La Mort/Entombed/Smurfs Versus Dragon.mp3
+2021-08-31 18:11:53    1308108 La Mort/Entombed/Super Ogre Spider Smash Up.mp3
+2021-08-31 18:12:16    5176001 La Mort/Entombed/The Last Army.mp3
+2021-08-31 18:12:42   11006917 La Mort/Entombed/The Lich 1.mp3
+2021-08-31 18:12:59    6782697 La Mort/Entombed/The Lich 2.mp3
+2021-08-31 18:13:05    4192691 La Mort/Entombed/Ultimate Final Battle.mp3
 2021-05-19 21:37:48   95663621 Liam Erven/A Hero's Call/A Hero's Call Live Playthrough Part 1 - Save Maria (Skip this part if you want actual gameplay).mp3
 2021-05-19 21:37:48  165054693 Liam Erven/A Hero's Call/A Hero's Call Live Playthrough Part 2 - Actually playing the game this time.mp3
 2021-05-19 21:37:48  177477717 Liam Erven/A Hero's Call/A Hero's Call Live Playthrough Part 3 - Simeon Says.mp3
