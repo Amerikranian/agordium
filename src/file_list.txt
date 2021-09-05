@@ -44,6 +44,7 @@
 2021-05-19 21:38:05   63525146 44k Let's Plays/Sequence Storm/01 Sequence Storm Live Playthrough Part 1 - welcome to midori Raceway!.mp3
 2021-05-19 21:38:05   99062249 44k Let's Plays/Sequence Storm/02 Sequence Storm Live Playthrough part 2 - sh_t just got real.mp3
 2021-05-19 21:38:05   70434569 44k Let's Plays/Sequence Storm/03 Sequence Storm Live Playthrough Part 3 - my life is on the line.mp3
+2021-09-04 23:45:27  364111065 44k Let's Plays/Streams/44K Let's Plays - traveling through The Vale.mp3
 2021-05-19 21:38:06  208184717 44k Let's Plays/Streams/44K Let's Plays frighten friends.mp3
 2021-05-19 21:38:06   76335315 44k Let's Plays/Streams/44K Let's plays actually get dangerous.mp3
 2021-05-19 21:38:06   46217440 44k Let's Plays/Streams/44K Letsplays Gets dangerous.mp3
@@ -996,7 +997,9 @@
 2021-05-19 21:38:04   47137797 Chriss/Bk 3/Let's play BK3 Part 04 This Place is Trashed.mp3
 2021-05-20 04:43:18   11871816 Chriss/Bk 3/let's Play BK3 Part 24 Intruder Detected!.mp3
 2021-05-19 21:37:59   18472101 Chriss/Blackbox/Blackbox Overview.mp3
+2021-09-05 10:13:36   28242487 Chriss/Blank Block/Let's Play Blank Block.mp3
 2021-05-19 21:37:59   30809085 Chriss/Blinded Guide/Let's Play Blinded Guide.mp3
+2021-09-05 10:13:42   16576368 Chriss/Bop It Ultimate/Let's Play Bop It Ultimate.mp3
 2021-05-19 21:37:59   41101035 Chriss/Captain Dynamite and the Fallen Hero/Let's Play Captain Dynamite and the Fallen Hero.mp3
 2021-05-19 21:37:59   19368898 Chriss/Classic Pipe/Let's Play Classic Pipe.mp3
 2021-05-19 21:37:59   26521946 Chriss/Classic Troopanum/Let's Play Classic Troopanum.mp3
@@ -1007,6 +1010,7 @@
 2021-05-19 21:38:03   50575629 Chriss/Descent into Madness/Let's Play Descent into Madness Part 1 The Subject is on the Loose!.mp3
 2021-05-19 21:38:03   19708557 Chriss/Descent into Madness/Let's Play Descent into Madness part 2 We escaped, but is it really over.mp3
 2021-05-19 21:37:59   46267367 Chriss/Dice World/Let's Play Dice World.mp3
+2021-09-05 10:13:36   28390202 Chriss/Dragon Pong/Let's Play Dragon Pong.mp3
 2021-05-20 03:53:57    7977189 Chriss/Duck Blaster/Let's Play Duck Blaster.mp3
 2021-05-19 21:38:03   39517773 Chriss/Entombed/Let's Play Entombed FLOOR 01 intro_First Floor.mp3
 2021-05-19 21:38:03   39756141 Chriss/Entombed/Let's Play Entombed Floor 02.mp3
@@ -1041,6 +1045,7 @@
 2021-05-20 03:53:33   15058221 Chriss/Kringle Crash/Revisiting Kringle Crash.mp3
 2021-05-19 21:37:59   25832301 Chriss/Laser Breakout/Let's Play Laser Breakout.mp3
 2021-05-19 21:37:59   29762949 Chriss/Light Cars/Let's Play Light Cars.mp3
+2021-09-05 10:13:39   10983443 Chriss/Light Locater/Let's Play Light Locater.mp3
 2021-05-19 21:38:02   23128413 Chriss/Manamon/Let's Play Manamon Part 01 First Manamon.mp3
 2021-05-19 21:38:02   27426333 Chriss/Manamon/Let's Play Manamon Part 03 Trail and Amika Woods part 1.mp3
 2021-05-19 21:38:01   17976068 Chriss/Manamon/Let's Play Manamon Part 06 First Stadium.mp3
@@ -1155,6 +1160,7 @@
 2021-05-20 03:49:12   16759697 Chriss/Screaming Strike/Let's Play Screaming Strike.mp3
 2021-05-19 21:37:58   35395795 Chriss/Scrolling Battles Pro/Let's Play Scrolling Battles Pro.mp3
 2021-05-19 21:37:58   42117933 Chriss/Scrolling Battles, Your World/Let's Play Scrolling Battles, Your World.mp3
+2021-09-05 10:14:49  116647446 Chriss/Scrolling Battles, Your World/Sketchbook (Your World).mp3
 2021-05-19 21:38:00   49697325 Chriss/Shades of Doom/Let's Play Shades of Doom part 1 Put those filthy muts down!.mp3
 2021-05-19 21:38:00   23008365 Chriss/Shades of Doom/Let's Play Shades of Doom part 2 What the hell is in the sewage of this place.mp3
 2021-05-19 21:38:00   24596253 Chriss/Shades of Doom/Let's Play Shades of Doom part 3 There are too many choices!.mp3
@@ -2114,6 +2120,7 @@
 2021-06-30 18:22:41   86095979 Liam Erven/Streams/Poptale Weekly for June 23, 2021.mp3
 2021-07-04 06:59:15   47885562 Liam Erven/Streams/Poptale Weekly for June 30, 2021.mp3
 2021-06-12 21:57:06   97556824 Liam Erven/Streams/Poptale Weekly for June 9, 2021.mp3
+2021-09-05 10:19:17   41755967 Liam Erven/Streams/Poptale Weekly for September 1, 2021 - Journey 3000.mp3
 2021-06-06 12:51:20   68581816 Liam Erven/Streams/Rosemary's Fate Demo Chapter 1 for May 27, 2021.mp3
 2021-05-19 21:37:53  119180277 Liam Erven/Streams/Saturday Night Game Streaming 02-18-2017.mp3
 2021-05-19 21:37:54  115008529 Liam Erven/Streams/Sequence Storm for January 20, 2021.mp3
@@ -2169,6 +2176,8 @@
 2021-05-22 09:56:36  221338101 Liam Erven/The Last of Us Part 2 Playthrough/Liam Plays the last of us Archive Part 5.mp3
 2021-05-22 09:56:36  260931885 Liam Erven/The Last of Us Part 2 Playthrough/Liam Plays the last of us Archive Part 6.mp3
 2021-05-22 09:56:36  263455245 Liam Erven/The Last of Us Part 2 Playthrough/Liam Plays the last of us Archive Part 7.mp3
+2021-09-05 10:20:15  321138944 Liam Erven/The Vale/The vale for August 30, 2021.mp3
+2021-09-05 10:20:16  104411089 Liam Erven/The Vale/The vale for August 31, 2021.mp3
 2021-05-20 00:29:21    8244770 Liam Erven/Zombie_Game/Zompocalypse_latest.mp3
 2021-05-20 00:27:29   14544878 Liam Erven/Zombie_Game/demonstration.mp3
 2021-05-20 00:27:45    2414239 Liam Erven/Zombie_Game/graveyard boss.mp3
