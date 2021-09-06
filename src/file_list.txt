@@ -1629,6 +1629,14 @@
 2021-05-20 06:47:32   17750517 Franklin/Bk 2/BK2 part 24, Puzle time.mp3
 2021-05-20 06:47:32   21893329 Franklin/Bk 2/BK2 part 25, Getting closer and closer to the end.mp3
 2021-05-20 06:47:32   49830347 Franklin/Bk 2/BK2 part 26, The final floor, and, uh, the final battle!.mp3
+2021-09-06 17:13:35   10887650 Garrett Brown/Crazy Party/Crazy Party Stream, 03_20_2020 (explicit).mp3
+2021-09-06 17:13:32  114482906 Garrett Brown/Crazy Party/Crazy Party Stream, 03_27_2020 (explicit).mp3
+2021-09-06 17:13:32   82762306 Garrett Brown/Crazy Party/Crazy Party Stream, 04-03-2020 (explicit).mp3
+2021-09-06 17:13:32   55537802 Garrett Brown/Misc/Playing BSC Games 06_15_2021.mp3
+2021-09-06 17:13:32  114848174 Garrett Brown/Misc/Playing RSGames 07-11-2021.mp3
+2021-09-06 17:13:32  143417690 Garrett Brown/Misc/Undead Assault Stream, 03_20_2020, (explicit).mp3
+2021-09-06 17:13:32  131155701 Garrett Brown/Survive the Wild/STW Live Stream, 02_28_2020 (unintentionally explicit).mp3
+2021-09-06 17:13:32  265257350 Garrett Brown/Survive the Wild/STW Live Stream, 03_06_2020 (unintentionally explicit).mp3
 2021-06-12 22:53:49   14156349 Gilbert Neiva/Manamon Playthrough/Manamon Part 01 My First Manamon.mp3
 2021-06-12 22:53:46   22120557 Gilbert Neiva/Manamon Playthrough/Manamon Part 02 The Journey Begins.mp3
 2021-06-12 22:53:46   29002581 Gilbert Neiva/Manamon Playthrough/Manamon Part 03 Through the Woods to Hazel Dale City.mp3
@@ -1736,6 +1744,7 @@
 2021-09-04 11:43:47  187301132 Key is full/Code Green Fifty Archives/2017-4-14 Code Green Returns the King and Slides on the Ice.mp3
 2021-09-04 11:43:47  217361593 Key is full/Code Green Fifty Archives/2017-4-28 Code Green Plays Arcade Games and Rages Some More at Rhythms.mp3
 2021-09-04 11:43:47  233675794 Key is full/Code Green Fifty Archives/2017-5-19 Code Green Rescues Soulmates from Buildings.mp3
+2021-09-06 10:34:26  218956525 Key is full/Code Green Fifty Archives/2017-6-2 Code Green Gets Randomly Emo while Looking for Crystals.mp3
 2021-09-01 20:49:36   37318612 Key is full/Entombed/01 Character Creation and First 2 Levels.mp3
 2021-09-01 20:49:36   30738352 Key is full/Entombed/02 3rd and 4th Level.mp3
 2021-09-01 20:49:36   73000468 Key is full/Entombed/03 5th to 7th Level Include Drake Pwnage.mp3
