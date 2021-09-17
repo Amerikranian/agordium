@@ -45,7 +45,7 @@ def generate_index():
 <li><a href="https://www.youtube.com/channel/UCDWOwfwJ18lQiXRubVBEFkw">Chris Wright YouTube</a></li>
 <li><a href="https://www.youtube.com/channel/UCeNPXAts2OyU64yPUiL-faw">Evangelosz Nagy YouTube</a></li>
 <li><a href="https://www.youtube.com/channel/UC0fNzoN5T_VwX08CI-xJUzg">Evil Chocolate Cookie YouTube</a></li>
-<li><a href="https://www.youtube.com/channel/UCnWg0SqiJpnDcn_rdszO01A">Garrett Brown YouTube</a></li>
+<li>Garrett Brown <a href="https://twitch.tv/brogar2000">Twitch</a> <a href="https://www.youtube.com/channel/UCnWg0SqiJpnDcn_rdszO01A">YouTube</a></li>
 <li><a href="https://www.youtube.com/channel/UCrI_FoGiniXlCa817LhB7OA">Gilbert Neiva YouTube</a></li>
 <li><a href="https://www.youtube.com/channel/UCx-2KuqTyJylJAl8lwwJgww">Kavya YouTube</a></li>
 <li>Liam Erven <a href="https://www.youtube.com/user/liamerven">YouTube</a> <a href="https://www.twitch.tv/liamerven">Twitch</a></li>
@@ -65,7 +65,7 @@ def generate_index():
                 str += f"<li><a href=\"{entry.name}\">{entry.name[:-5]}</a></li>"
     temp = open("index.html", "w")
     temp.write(str)
-    temp.write("</body>\n</html>")
+    temp.write("</ul>\n</body>\n<footer>Website created by Edgar Lozano and O Pittman.</footer>\n</html>")
     temp.close()
 
 def generate_clean_list(file_name):
@@ -101,7 +101,7 @@ def post_populate():
         for entry in files:
             if entry.name[-5:] == ".html":
                 temp = open(entry.name, "a")
-                temp.write("</body></html>")
+                temp.write("</body>\n<footer>Website created by Edgar Lozano and O Pittman.</footer>\n</html>")
                 temp.close()
 
 def generate_files():

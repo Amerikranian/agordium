@@ -26,3 +26,7 @@ $ aws s3 ls --recursive audio-game-recordings > file_list.txt
 And assuming the main.py file and the file_list.txt file are in the same directory (recommend folder with just these two files), things should work because the rest is just Python basics.
 
 Feel free to improve!
+## Contributors
+See the [contributors file.](contributors.md)
+## Changelog
+View the [Changelog file.](changelog.md)
