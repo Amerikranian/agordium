@@ -7,11 +7,20 @@ The changelog follows a few basic guidelines
 - If the creator has not previously existed, the words "Added content by XXX," where XXX is the creator's name are used. The given entry follows the previous constraint
 - If the creator has previously existed but the newly-created folder has not, the words "Added YYY," where YYY is the new folder name are used. The given entry follows the ordering constraint described above
 - If the creator's content has been moved or merged with another author, the words "Moved XXX to YYY," where XXX is the original path and YYY is the new path are used. The given entry follows the ordering constraint described above
+## 25-09-2021
+### Chriss
+- Three D Velocity/Let's Play Three-D Velocity Part 3 There's a Traitor among us!
+- Three D Velocity/Let's Play Three-D Velocity Part 4 No More Power for You!
+- Three D Velocity/Let's Play Three-D Velocity Part 5 Resurrection is Only for the Elite!
+- Three D Velocity/Let's Play Three-D Velocity Part 6 Victory At A Cost
+### Sediment
+- /SseddaChrist
 ## 16-09-2021
 - Replaced Garrett Brown's old RS Games recording with a new one.
 - Added Garrett Brown's Twitch
-- Added Holy Christ to Everstone's author page.
 - Added website creators to a footer
+### Everstorm
+- Added Holy Christ
 ## 07-09-2021
 ### Key is Full
 - Added BK2 Failures
