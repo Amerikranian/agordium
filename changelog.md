@@ -13,6 +13,11 @@ The changelog follows a few basic guidelines
 - Three D Velocity/Let's Play Three-D Velocity Part 4 No More Power for You!
 - Three D Velocity/Let's Play Three-D Velocity Part 5 Resurrection is Only for the Elite!
 - Three D Velocity/Let's Play Three-D Velocity Part 6 Victory At A Cost
+### Liam Erven
+- Streams/Poptale Weekly for September 8, 2021 - Space Bones Online RPG
+- Streams/Poptale Weekly for September 15, 2021 - Bluebeard's Bride
+- Streams/Poptale Weekly for September 22, 2021 - Iron Falcon – Shadows of the past
+- Streams/Swamp for September 13, 2021
 ### Sediment
 - /SseddaChrist
 ## 16-09-2021
