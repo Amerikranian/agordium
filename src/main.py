@@ -65,7 +65,7 @@ def generate_index():
                 str += f"<li><a href=\"{entry.name}\">{entry.name[:-5]}</a></li>"
     temp = open("index.html", "w")
     temp.write(str)
-    temp.write("</ul>\n</body>\n<footer>Website created by Edgar Lozano and O Pittman.</footer>\n</html>")
+    temp.write("</ul>\n</body>\n<footer>Website created by Edgar Lozano and Oleg Pittman.</footer>\n</html>")
     temp.close()
 
 def generate_clean_list(file_name):
