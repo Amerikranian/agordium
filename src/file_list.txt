@@ -94,6 +94,7 @@
 2021-05-19 19:05:12   58087758 Assault Freak/Shadow Line/shadow line lp part 7.mp3
 2021-05-19 19:05:12   85006001 Assault Freak/Shadow Line/shadow line lp part 8.mp3
 2021-05-19 19:05:12   65184705 Assault Freak/Shadow Line/shadow line lp part 9.mp3
+2021-09-29 19:21:03  110067879 Assault Freak/World of Mist/world of mist getting started.mp3
 2021-05-22 11:59:11   28789173 Audiogame Edits/Misc/Let's Play SammyCenter - A package of small games written by Sam Tupy Productions.mp3
 2021-05-22 11:59:13    5901453 Audiogame Edits/Misc/Let's Play Shock Shot - A BGT example game written by Philip Bennefall.mp3
 2021-05-22 11:59:15    5698869 Audiogame Edits/Misc/Let's Play Soundfall - A BGT example game written by Lukáš Hosnedl.mp3
@@ -1046,6 +1047,24 @@
 2021-05-19 21:37:59   25832301 Chriss/Laser Breakout/Let's Play Laser Breakout.mp3
 2021-05-19 21:37:59   29762949 Chriss/Light Cars/Let's Play Light Cars.mp3
 2021-09-05 10:13:39   10983443 Chriss/Light Locater/Let's Play Light Locater.mp3
+2021-09-29 17:12:12  145196765 Chriss/Manamon 2/Manamon 2 Part 1.mp3
+2021-09-29 17:12:12  103084870 Chriss/Manamon 2/Manamon 2 Part 10.mp3
+2021-09-29 17:12:13  209504877 Chriss/Manamon 2/Manamon 2 Part 11.mp3
+2021-09-29 17:12:13  186926445 Chriss/Manamon 2/Manamon 2 Part 12.mp3
+2021-09-29 17:12:13  220492948 Chriss/Manamon 2/Manamon 2 Part 13.mp3
+2021-09-29 17:12:13  157240677 Chriss/Manamon 2/Manamon 2 Part 14.mp3
+2021-09-29 17:12:13  141592703 Chriss/Manamon 2/Manamon 2 Part 15.mp3
+2021-09-29 17:12:13   23864886 Chriss/Manamon 2/Manamon 2 Part 16 continued.mp3
+2021-09-29 17:12:13   92160670 Chriss/Manamon 2/Manamon 2 Part 16.mp3
+2021-09-29 17:12:13  125691864 Chriss/Manamon 2/Manamon 2 Part 17.mp3
+2021-09-29 17:12:13  154880462 Chriss/Manamon 2/Manamon 2 Part 2.mp3
+2021-09-29 17:12:13  188224827 Chriss/Manamon 2/Manamon 2 Part 3.mp3
+2021-09-29 17:12:13  144919917 Chriss/Manamon 2/Manamon 2 Part 4.mp3
+2021-09-29 17:12:13  153754989 Chriss/Manamon 2/Manamon 2 Part 5.mp3
+2021-09-29 17:12:13  163104237 Chriss/Manamon 2/Manamon 2 Part 6.mp3
+2021-09-29 17:12:13  112696941 Chriss/Manamon 2/Manamon 2 Part 7.mp3
+2021-09-29 17:12:13  130683117 Chriss/Manamon 2/Manamon 2 Part 8.mp3
+2021-09-29 17:12:13  107039853 Chriss/Manamon 2/Manamon 2 Part 9.mp3
 2021-05-19 21:38:02   23128413 Chriss/Manamon/Let's Play Manamon Part 01 First Manamon.mp3
 2021-05-19 21:38:02   27426333 Chriss/Manamon/Let's Play Manamon Part 03 Trail and Amika Woods part 1.mp3
 2021-05-19 21:38:01   17976068 Chriss/Manamon/Let's Play Manamon Part 06 First Stadium.mp3
@@ -2306,6 +2325,7 @@
 2021-07-03 10:35:10    8373919 Misc Playthroughs/BSC Games/Hunter Game Review.mp3
 2021-07-03 10:35:13   14335898 Misc Playthroughs/BSC Games/Pipe 2 Game Review.mp3
 2021-07-03 10:35:17    4812880 Misc Playthroughs/BSC Games/Troopanum 2 Game Review.mp3
+2021-09-29 19:23:52   18046852 Misc Playthroughs/Hyper Dragon Ball Z/Hyper Dragon Ball Z.mp3
 2021-05-19 21:37:35   36625197 Misc Playthroughs/Q9/Let's Play Q 9 Part 1.mp3
 2021-05-19 21:37:35   45111683 Misc Playthroughs/Q9/Let's Play Q 9 Part 2.mp3
 2021-05-19 21:37:35   30985956 Misc Playthroughs/Q9/Let's Play Q 9 Part 3.mp3

@@ -101,7 +101,7 @@ def post_populate():
         for entry in files:
             if entry.name[-5:] == ".html":
                 temp = open(entry.name, "a")
-                temp.write("</body>\n<footer>Website created by Edgar Lozano and O Pittman.</footer>\n</html>")
+                temp.write("</body>\n<footer>Website created by Edgar Lozano and Oleg Pittman.</footer>\n</html>")
                 temp.close()
 
 def generate_files():
