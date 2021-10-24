@@ -8,6 +8,22 @@ The changelog follows a few basic guidelines
 - If the creator has previously existed but the newly-created folder has not, the words "Added YYY," where YYY is the new folder name are used. The given entry follows the ordering constraint described above
 - If the creator's content has been moved or merged with another author, the words "Moved XXX to YYY," where XXX is the original path and YYY is the new path are used. The given entry follows the ordering constraint described above
 
+## 23-10-2021
+- Added content by Andrea Estrella, Matteo Panariello, and Maulpaul
+### Amerikranian
+- SBYW Challenge Gems/03 A Fun Adventure, What Happens When You Have the Runs 2D, Evil Support, Rooftop disaster, Burning Battleship
+### Evil Chocolate Cookie
+- Manamon 2/08 Playing Manamon 2, part 8
+### Liam Erven
+- Added Jackbox Party Pack 8 Streams
+- streams/hearthstone for october 11, 2021
+- streams/hearthstone for October 18, 2021
+- streams/NHL 22 First Look Plus Accessibility review for October 7, 2021
+- streams/Poptale Weekly for october 6, 2021: Clash of Legions
+- streams/Poptale Weekly for october 13, 2021: Pioneer Trail
+- streams/Poptale Weekly for October 20, 2021: Space Express
+### The Audio Game Club- For Blind Gamers Everywhere
+- Manamon II/18 Manamon 2 Play-Through Part 18
 ## 29-09-2021
 ### Chriss
 - Added Manamon 2 playthrough

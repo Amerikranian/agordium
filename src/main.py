@@ -37,6 +37,7 @@ def generate_index():
 <p>This listing only includes content sources that currently exist and are live.</p>
 <ul>
 <li><a href="https://www.youtube.com/c/44KLetsPlays">44K LetsPlays YouTube</a></li>
+<li><a href="https://www.youtube.com/channel/UCdJ5SDs2ifCouxQ4DgEJK3A/">Andrea Estrella YouTube</a></li>
 <li>Aprone <a href="https://www.kaldobsky.com/ssl/audiogames.php">Website</a> <a href="https://www.youtube.com/user/TheAprone">YouTube</a></li>
 <li><a href="https://www.youtube.com/channel/UCNbcgG4B9D4DTtIOXrnjUqQ">Audiogame edits YouTube</a></li>
 <li><a href="https://www.youtube.com/channel/UCB1L76VgaXxCfwZX3VqiqeQ">Audiogame Extraordinaire YouTube</a></li>
@@ -49,6 +50,7 @@ def generate_index():
 <li><a href="https://www.youtube.com/channel/UCrI_FoGiniXlCa817LhB7OA">Gilbert Neiva YouTube</a></li>
 <li><a href="https://www.youtube.com/channel/UCx-2KuqTyJylJAl8lwwJgww">Kavya YouTube</a></li>
 <li>Liam Erven <a href="https://www.youtube.com/user/liamerven">YouTube</a> <a href="https://www.twitch.tv/liamerven">Twitch</a></li>
+<li><a href="https://www.youtube.com/user/MrMatteopanariello/">Matteo Panariello</a></li>
 <li>Orinks <a href="https://www.youtube.com/user/Orinks">YouTube</a> <a href="https://www.twitch.tv/orinks1">Twitch</a></li>
 <li>PG13LP <a href="https://pg13lp.com/">Website</a> <a href="https://www.youtube.com/channel/UCwsmTHviOiomYiRW0WPyqfA">Youtube</a></li>
 <li><a href="http://samtupy.com/">Sam Tupy Website</a></li>
