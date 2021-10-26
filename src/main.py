@@ -42,20 +42,22 @@ def generate_index():
 <li><a href="https://www.youtube.com/channel/UCNbcgG4B9D4DTtIOXrnjUqQ">Audiogame edits YouTube</a></li>
 <li><a href="https://www.youtube.com/channel/UCB1L76VgaXxCfwZX3VqiqeQ">Audiogame Extraordinaire YouTube</a></li>
 <li>Brandon Cole <a href="https://www.youtube.com/channel/UCbJy3rXhAbRwG85D3yceS5A">YouTube</a> <a href="https://www.twitch.tv/superblindman/">Twitch</a></li>
-<li><a href="https://blackscreengaming.com/">Black Screen Gaming (BSG)</a></li>
+<li><a href="https://blackscreengaming.com/">Black Screen Gaming (BSG) Website</a></li>
 <li><a href="https://www.youtube.com/channel/UCDWOwfwJ18lQiXRubVBEFkw">Chris Wright YouTube</a></li>
+<li><a href="https://www.youtube.com/c/EagleEarEntertainment/">EagleEarEntertainment YouTube</a></li>
 <li><a href="https://www.youtube.com/channel/UCeNPXAts2OyU64yPUiL-faw">Evangelosz Nagy YouTube</a></li>
 <li><a href="https://www.youtube.com/channel/UC0fNzoN5T_VwX08CI-xJUzg">Evil Chocolate Cookie YouTube</a></li>
 <li>Garrett Brown <a href="https://twitch.tv/brogar2000">Twitch</a> <a href="https://www.youtube.com/channel/UCnWg0SqiJpnDcn_rdszO01A">YouTube</a></li>
 <li><a href="https://www.youtube.com/channel/UCrI_FoGiniXlCa817LhB7OA">Gilbert Neiva YouTube</a></li>
 <li><a href="https://www.youtube.com/channel/UCx-2KuqTyJylJAl8lwwJgww">Kavya YouTube</a></li>
 <li>Liam Erven <a href="https://www.youtube.com/user/liamerven">YouTube</a> <a href="https://www.twitch.tv/liamerven">Twitch</a></li>
-<li><a href="https://www.youtube.com/user/MrMatteopanariello/">Matteo Panariello</a></li>
+<li><a href="https://www.youtube.com/user/MrMatteopanariello/">Matteo Panariello YouTube</a></li>
 <li>Orinks <a href="https://www.youtube.com/user/Orinks">YouTube</a> <a href="https://www.twitch.tv/orinks1">Twitch</a></li>
 <li>PG13LP <a href="https://pg13lp.com/">Website</a> <a href="https://www.youtube.com/channel/UCwsmTHviOiomYiRW0WPyqfA">Youtube</a></li>
 <li><a href="http://samtupy.com/">Sam Tupy Website</a></li>
 <li><a href="https://www.youtube.com/channel/UCqr0Igol9df3CC_QsPyuv_g">Sarah Alawami YouTube</a></li>
 <li><a href="https://stevend.net/">Steven D Website</a></li>
+<li><a href="https://www.youtube.com/c/TechnologyForBlind">Technology For Blind</a></li>
 <li><a href="https://www.youtube.com/channel/UCCIMEu3mUuoNrvCIqm0wv3A/">The Audio Game Club- For Blind Gamers Everywhere YouTube</a></li>
 </ul>
 <h2>Creator Listing</h2>
