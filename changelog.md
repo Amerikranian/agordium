@@ -7,6 +7,10 @@ The changelog follows a few basic guidelines
 - If the creator has not previously existed, the words "Added content by XXX," where XXX is the creator's name are used. The given entry follows the previous constraint
 - If the creator has previously existed but the newly-created folder has not, the words "Added YYY," where YYY is the new folder name are used. The given entry follows the ordering constraint described above
 - If the creator's content has been moved or merged with another author, the words "Moved XXX to YYY," where XXX is the original path and YYY is the new path are used. The given entry follows the ordering constraint described above
+## 22-11-2021
+- Added content by Rich Beardsley
+### Kavya
+- Misc/a fun adventure speed run
 ## 28-10-2021
 - Added content by Florian Ionascu
 ### Chris
