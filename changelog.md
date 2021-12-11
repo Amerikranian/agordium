@@ -7,6 +7,36 @@ The changelog follows a few basic guidelines
 - If the creator has not previously existed, the words "Added content by XXX," where XXX is the creator's name are used. The given entry follows the previous constraint
 - If the creator has previously existed but the newly-created folder has not, the words "Added YYY," where YYY is the new folder name are used. The given entry follows the ordering constraint described above
 - If the creator's content has been moved or merged with another author, the words "Moved XXX to YYY," where XXX is the original path and YYY is the new path are used. The given entry follows the ordering constraint described above
+## 11-12-2021
+- Added content by Brailescreen
+### Chris
+- Added Adventure at C Remnant
+- Added Castaways
+- Added Crime Hunter
+- Added Cyclepath
+- Added GMA Tank Commander
+- Added Little Boss' Lemonade Stand
+- Added Oh Shit
+- Added Pawprints
+- Added Preludeamals
+- Added Temporal
+- Added Towers Of War
+- Added Typerspeed Sepia
+- Scrolling Battles, Your World/Sketchbook Script Keys Tutorial
+### Everstorm
+- Added The Gate
+### Liam Erven
+- Streams/Fabella Creator Game Jam 2021
+- Streams/Forza Horizon 5 for November 30, 2021
+- Streams/hearthstone for October 29, 2021
+- Streams/hearthstone for November 4, 2021
+- Streams/Jackbox Party Pack 8 for November 5, 2021
+- Streams/Poptale Weekly for october 27, 2021 - Escape from 63rd and Wallace
+- Streams/Poptale Weekly for November 3, 2021 - Shield Spell Sword
+- Streams/Poptale Weekly for November 10, 2021 - Last Light IN the Dark
+- Streams/Poptale Weekly for November 17, 2021 - Lost Worlds
+- Streams/Poptale Weekly for December 1, 2021 - Gacha Pets
+- Streams/Poptale Weekly for December 8, 2021 - Fabella Game Jam
 ## 22-11-2021
 - Added content by Rich Beardsley
 ### Kavya
@@ -14,10 +44,10 @@ The changelog follows a few basic guidelines
 ## 28-10-2021
 - Added content by Florian Ionascu
 ### Chris
-- Blind Drive/Let's Play Blind Drive
-- Perilous Marathon/Let's Play Perilous Marathon
-- Road to Rage/Let's Play Road to Rage
-- TreasureMania/Let's Play TreasureMania1
+- Added Blind Drive
+- Added Perilous Marathon
+- Added Road to Rage
+- Added TreasureMania
 ## 26-10-2021
 - Added content by EagleEarEntertainment
 ## 24-10-2021
@@ -103,5 +133,5 @@ The changelog follows a few basic guidelines
 - Misc/Science Invasion
 - Misc/Super Liam - Max Pane Mod
 - Misc/Villains from Beyond
-- Misc/World of War
+- Misc/World of War  
 [Go back to the archive](https://audiogamerecordings.com/)
