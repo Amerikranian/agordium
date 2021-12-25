@@ -60,6 +60,7 @@ def generate_index():
 <li><a href="https://stevend.net/">Steven D Website</a></li>
 <li><a href="https://www.youtube.com/c/TechnologyForBlind">Technology For Blind</a></li>
 <li><a href="https://www.youtube.com/channel/UCCIMEu3mUuoNrvCIqm0wv3A/">The Audio Game Club- For Blind Gamers Everywhere YouTube</a></li>
+<li><a href="https://www.youtube.com/channel/UC3xzvvZBVQtx-3eUvMsEWwg">Thunderstep Gaming YouTube</a></li>
 </ul>
 <h2>Creator Listing</h2>
 <ul>

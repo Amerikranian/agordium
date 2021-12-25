@@ -265,6 +265,7 @@
 2021-06-26 21:55:31  119489587 Audiogame Extraordinaire/Three-D Velocity II/02 Mission Mode Part 1 - 3d Velocity II.mp3
 2021-06-26 21:55:31  132281091 Audiogame Extraordinaire/Three-D Velocity II/03 Mission Mode Part 2 - 3D Velocity II.mp3
 2021-06-26 21:55:31  172839166 Audiogame Extraordinaire/Tomb Hunter/Tomb Hunter Part 1.mp3
+2021-12-25 15:38:19   15887085 Brailescreen/Endless Runner/Endless Runner Again.mp3
 2021-12-11 15:42:08    5376671 Brailescreen/Sketchbook Your World/MonsterMadness.mp3
 2021-05-24 16:13:15          0 Brandon Cole/
 2021-05-24 16:18:39  171304640 Brandon Cole/Brandon Cole/Accessibility Review Live Stream - MLB The Show 21.mp3
@@ -1221,6 +1222,7 @@
 2021-05-19 21:38:01   53482653 Chriss/Paladin of the Sky/Let's play Paladin of the Sky part 13 execute her!.mp3
 2021-05-19 21:38:01   43086765 Chriss/Paladin of the Sky/Let's play Paladin of the Sky part 16 Kaboom!.mp3
 2021-05-19 21:38:01   33329997 Chriss/Paladin of the Sky/Let's play Paladin of the Sky part 19 the music of the dead.mp3
+2021-12-25 15:39:21   28509518 Chriss/Park Boss/Park Boss Overview.mp3
 2021-12-11 14:57:16   58117887 Chriss/Pawprints/01 Let's Play PawPrints Part 1 The Adventure Begins.mp3
 2021-12-11 14:57:16   82459200 Chriss/Pawprints/02 Let's Play PawPrints Part 2 Jeremy is Awesome.mp3
 2021-05-19 21:37:58   42606333 Chriss/Perilous Hearts/Let's Play Perilous Hearts.mp3
@@ -1234,10 +1236,12 @@
 2021-05-20 04:17:15   15959229 Chriss/Q 9/Let's Play Q9 part 2 - The Cave World.mp3
 2021-05-19 21:37:59   27816573 Chriss/Quentin C Playroom/0 QUentin C Playroom Part 1.mp3
 2021-05-19 21:37:59   32859549 Chriss/Quentin C Playroom/01 Let's play Quentin C Playroom part 2.mp3
+2021-12-25 15:39:21   31246361 Chriss/RS Games/RS Games Overview.mp3
 2021-10-28 20:10:09   47196751 Chriss/Road to Rage/Let's Play Road to Rage.mp3
 2021-05-20 03:55:33    6535029 Chriss/ScapeSkate/Failing at ScapeSkate.mp3
 2021-05-19 21:37:58   47932029 Chriss/Science Invasion/Let's Play Science Invasion.mp3
 2021-05-20 03:49:12   16759697 Chriss/Screaming Strike/Let's Play Screaming Strike.mp3
+2021-12-25 15:40:10   22362791 Chriss/Screaming Strike/Screaming Strike 2 Demo.mp3
 2021-05-19 21:37:58   35395795 Chriss/Scrolling Battles Pro/Let's Play Scrolling Battles Pro.mp3
 2021-05-19 21:37:58   42117933 Chriss/Scrolling Battles, Your World/Let's Play Scrolling Battles, Your World.mp3
 2021-09-05 10:14:49  116647446 Chriss/Scrolling Battles, Your World/Sketchbook (Your World).mp3
@@ -2178,6 +2182,7 @@
 2021-05-23 20:26:30   27335504 Evangelosz Nagy/Troopanum/Troopanum Ambient Challenge w Evangelosz Nagy.mp3
 2021-05-19 21:37:54   24135262 Everstorm/Branble/the totality, I mean branble concept part 1.mp3
 2021-05-19 21:37:55   22361025 Everstorm/Branble/the totality, I mean branble concept part 2.mp3
+2021-12-25 15:41:16   13064685 Everstorm/Hearthstone/commanding the elements in hearthstone.mp3
 2021-09-16 19:06:26   20619405 Everstorm/Holy Christ/Holy Christ.mp3
 2021-12-11 15:43:00  370793325 Everstorm/The Gate/the gate complete playthrough.mp3
 2021-05-19 21:37:54  238674861 Everstorm/Tomb Hunter/Tomb hunter gameplay by everstorm.mp3
@@ -4039,7 +4044,9 @@
 2021-06-20 10:13:24   28812885 Sediment/an early morning walk through the bramble bushes.mp3
 2021-06-20 10:13:24   41046771 Sediment/here's part 2 of this random thing.mp3
 2021-06-20 10:13:24   30981477 Sediment/hopelessly lost betwixt the brambles.mp3
+2021-12-25 15:37:17   15813936 Sediment/it's branbling everywhere.mp3
 2021-06-20 10:13:24   32179767 Sediment/playing with a little tarzan. .mp3
+2021-12-25 15:37:15    8502902 Sediment/what happens at level 100 in sbrw, anyway_ note, spoiler alert!.mp3
 2021-05-26 09:39:29   76858521 Steven D/Awesome Homer.mp3
 2021-05-26 09:39:29   93538521 Steven D/BK3/BK3 Part 1.mp3
 2021-05-26 09:39:29  173885127 Steven D/BK3/BK3 Part 10.mp3
@@ -4238,6 +4245,22 @@
 2021-08-07 13:12:36   99240899 The Audio Game Club- For Blind Gamers Everywhere/The Last Of Us II/18 The Last of us Part 2 walkthrough part 18.mp3
 2021-08-07 13:12:36   97637539 The Audio Game Club- For Blind Gamers Everywhere/The Last Of Us II/19 The Last of us Part 2 walkthrough part 19.mp3
 2021-08-07 13:12:36  119877883 The Audio Game Club- For Blind Gamers Everywhere/The Last Of Us II/20 The Last of us Part 2 walkthrough part 20 The End !.mp3
+2021-12-25 15:13:53  130032333 Thunderstep Gaming/A Hero's Call/01 There Is No Escape from the Horse _ A Hero's Call _ Part 1.mp3
+2021-12-25 15:13:53  102671794 Thunderstep Gaming/A Hero's Call/02 There Is Still No Escape from the Horse _ A Hero's Call _ Part 2.mp3
+2021-12-25 15:13:56   15428381 Thunderstep Gaming/Hearthstone/Climb to Legend with This Insane Deck _ Hearthstone.mp3
+2021-12-25 15:13:53  156820818 Thunderstep Gaming/Hearthstone/Fractured in Alterac Valley Launch Stream _ Hearthstone.mp3
+2021-12-25 15:13:53  157752281 Thunderstep Gaming/Hearthstone/Hearthstone - Final Push Out of Apprentice + Pack-off.mp3
+2021-12-25 15:13:53  100216803 Thunderstep Gaming/Hearthstone/Losing on Ranked and Having Fun with Battlegrounds _ Hearthstone.mp3
+2021-12-25 15:13:53   80631456 Thunderstep Gaming/Hearthstone/Meme-a-thon 3000 Episode 2 _ Hearthstone.mp3
+2021-12-25 15:13:53  134858002 Thunderstep Gaming/Hearthstone/Meme-a-thon 3000 _ Hearthstone.mp3
+2021-12-25 15:13:53  345541886 Thunderstep Gaming/Hearthstone/Thunderstep Gaming Hearthstone Tournament _ Americas.mp3
+2021-12-25 15:13:53  384469319 Thunderstep Gaming/Hearthstone/Thunderstep Gaming Hearthstone Tournament _ Europe.mp3
+2021-12-25 15:13:53  170864587 Thunderstep Gaming/Hearthstone/Thunderstep Gaming Plays Hearthstone.mp3
+2021-12-25 15:13:53  194649754 Thunderstep Gaming/Misc/Thunderstep Gaming Plays A Blind Legend.mp3
+2021-12-25 15:13:53  113540255 Thunderstep Gaming/The Vale/01 The Vale - Shadow of the Crown _ Part 1.mp3
+2021-12-25 15:13:53  197040645 Thunderstep Gaming/The Vale/02 The Vale - Shadow of the Crown _ Part 2.mp3
+2021-12-25 15:13:53  181850654 Thunderstep Gaming/The Vale/03 The Vale - Shadow of the Crown _ Part 3.mp3
+2021-12-25 15:13:53  149613622 Thunderstep Gaming/The Vale/04 The Vale - Shadow of the Crown _ Part 4 (+ Some Hearthstone).mp3
 2021-05-19 18:26:28          0 Zuckuss/
 2021-05-19 18:27:39          0 Zuckuss/Manamon I/
 2021-05-19 18:33:08   14307160 Zuckuss/Manamon I/00 Let me Explain.mp3
