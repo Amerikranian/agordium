@@ -7,6 +7,10 @@ The changelog follows a few basic guidelines
 - If the creator has not previously existed, the words "Added content by XXX," where XXX is the creator's name are used. The given entry follows the previous constraint
 - If the creator has previously existed but the newly-created folder has not, the words "Added YYY," where YYY is the new folder name are used. The given entry follows the ordering constraint described above
 - If the creator's content has been moved or merged with another author, the words "Moved XXX to YYY," where XXX is the original path and YYY is the new path are used. The given entry follows the ordering constraint described above
+## 26-01-2021
+### Sethgamer
+- Misc/Audio Run, Fun Time Wasting Endless Running Style Game Gameplay
+- Misc/Blindscape, Weird First Person Adventure Game Walkthrough
 ## 02-01-2022
 - Added content by Sethgamer
 ## 25-12-2021
