@@ -18,7 +18,113 @@ def generate_index():
 <h1>Welcome</h1>
 <p>Welcome to the Audio Games Recordings Repository.</p>
 <p>The aim of the website is to list audio recordings of people playing Audio Games.  The hope is that this will preserve a history of content whether for nostalgic purposes, provide walkthroughs, or to provide an avenue for discovering new and old games.</p>
-<h2>Important Please Read</h2>
+<h2>Donate</h2>
+<p>There has been some interest in donating to this project. There is no requirement and no commitment to having to donate. However, to help with space and bandwidth costs, any donations are very much appreciated. There is a Donation Box form to submit donations. And rest assured, the money donated here will only go to the maintenance of this website and server space and bandwidth costs.</p>
+<p>There is an assurance that if donation goals are met monthly, there are no penalties for downloading the content here, even if mass downloads of content were desired. However, if the cost incurred by excessive bandwidth usage exceeds the donation amount, the authors of the site reserve the right to shut it down for the month as described in the "Important please read" section.</p>
+<p>I am making this a community effort and if the community cannot be responsible for following these guidelines, this project will not continue. Thank you for your understanding and let these recordings live on for all to enjoy!</p>
+<div id="smart-button-container">
+      <div style="text-align: center;">
+        <div style="margin-bottom: 1.25rem;">
+          <p>Enter an amount to donate to help with storage and bandwidth costs.</p>
+          <select id="item-options"><option value="" price=""> -  USD</option></select>
+          <select style="visibility: hidden" id="quantitySelect"></select>
+        </div>
+      <div id="paypal-button-container"></div>
+      </div>
+    </div>
+    <script src="https://www.paypal.com/sdk/js?client-id=sb&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"></script>
+    <script>
+      function initPayPalButton() {
+        var shipping = 0;
+        var itemOptions = document.querySelector("#smart-button-container #item-options");
+    var quantity = parseInt();
+    var quantitySelect = document.querySelector("#smart-button-container #quantitySelect");
+    if (!isNaN(quantity)) {
+      quantitySelect.style.visibility = "visible";
+    }
+    var orderDescription = 'Enter an amount to donate to help with storage and bandwidth costs.';
+    if(orderDescription === '') {
+      orderDescription = 'Item';
+    }
+    paypal.Buttons({
+      style: {
+        shape: 'rect',
+        color: 'gold',
+        layout: 'vertical',
+        label: 'paypal',
+        
+      },
+      createOrder: function(data, actions) {
+        var selectedItemDescription = itemOptions.options[itemOptions.selectedIndex].value;
+        var selectedItemPrice = parseFloat(itemOptions.options[itemOptions.selectedIndex].getAttribute("price"));
+        var tax = (0 === 0 || false) ? 0 : (selectedItemPrice * (parseFloat(0)/100));
+        if(quantitySelect.options.length > 0) {
+          quantity = parseInt(quantitySelect.options[quantitySelect.selectedIndex].value);
+        } else {
+          quantity = 1;
+        }
+
+        tax *= quantity;
+        tax = Math.round(tax * 100) / 100;
+        var priceTotal = quantity * selectedItemPrice + parseFloat(shipping) + tax;
+        priceTotal = Math.round(priceTotal * 100) / 100;
+        var itemTotalValue = Math.round((selectedItemPrice * quantity) * 100) / 100;
+
+        return actions.order.create({
+          purchase_units: [{
+            description: orderDescription,
+            amount: {
+              currency_code: 'USD',
+              value: priceTotal,
+              breakdown: {
+                item_total: {
+                  currency_code: 'USD',
+                  value: itemTotalValue,
+                },
+                shipping: {
+                  currency_code: 'USD',
+                  value: shipping,
+                },
+                tax_total: {
+                  currency_code: 'USD',
+                  value: tax,
+                }
+              }
+            },
+            items: [{
+              name: selectedItemDescription,
+              unit_amount: {
+                currency_code: 'USD',
+                value: selectedItemPrice,
+              },
+              quantity: quantity
+            }]
+          }]
+        });
+      },
+      onApprove: function(data, actions) {
+        return actions.order.capture().then(function(orderData) {
+          
+          // Full available details
+          console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
+
+          // Show a success message within this page, e.g.
+          const element = document.getElementById('paypal-button-container');
+          element.innerHTML = '';
+          element.innerHTML = '<h3>Thank you for your payment!</h3>';
+
+          // Or go to another URL:  actions.redirect('thank_you.html');
+
+        });
+      },
+      onError: function(err) {
+        console.log(err);
+      },
+    }).render('#paypal-button-container');
+  }
+  initPayPalButton();
+    </script>
+    <h2>Important Please Read</h2>
 <p>A small website such as this does not have any rules.</p>
 <p>The only rule is to please refrain from mass downloading all of the files available here. Using automated tools such as scripts, Curl, Wget, etc for the automating of downloads is strongly discouraged.</p>
 <p>In other words, if you use the website as normal, downloading few files and listening to them at a time is perfectly fine and is why this site exists.</p>
