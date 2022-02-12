@@ -7,6 +7,43 @@ The changelog follows a few basic guidelines
 - If the creator has not previously existed, the words "Added content by XXX," where XXX is the creator's name are used. The given entry follows the previous constraint
 - If the creator has previously existed but the newly-created folder has not, the words "Added YYY," where YYY is the new folder name are used. The given entry follows the ordering constraint described above
 - If the creator's content has been moved or merged with another author, the words "Moved XXX to YYY," where XXX is the original path and YYY is the new path are used. The given entry follows the ordering constraint described above
+## 12-02-2022
+### Liam Erven
+- Added Weight Loss Challenge
+- Streams/Crazy party for January 3, 2022
+- Streams/Poptale Weekly for December 29, 2021 - 2021 in Review
+- Streams/Poptale Weekly for January 5, 2022 - The Bard's Tale - Warlocks of Largefearn
+- Streams/Poptale Weekly for January 12, 2022 - Text Quest
+- Streams/Poptale Weekly for January 19, 2022 - Voice Arcade
+- Streams/Poptale Weekly for January 26, 2021 - The Copernicus Legacy
+### Matteo Panariello
+- The Vale/02 lupi e pirati sul nostro cammino   The Vale   Gameplay ITA   #02
+- The Vale/03 La ragazza di fuoco- The Vale   Gameplay ITA    #03
+- The Vale/04 Alex la ragazza paranormale   Te Vale   Gameplay Ita   #04
+- The Vale/05 una rivelazione dal passato   The Vale   Gameplay Ita   #05
+- The Vale/06 enigmatici incontri   The Vale   Gameplay Ita   #06
+- The Vale/07 fuoco e fiamme ad un passo da casa - The Vale - Gameplay Ita - #07
+- The Vale/08 finalmente a casa   The Vale   Gameplay Ita   #08
+### Rich Beardsley
+- Added A Western Drama
+- Added AudioWizards
+- Added Blind Drive
+- Added Bluesky
+- Added Hell Hunter - Anti-Nomen
+- Added Pitch Black A Detective's Demise
+- Misc/Against The Clock Remake video
+- Misc/Galactic Colonies accessibility beta demo - no commentary
+- Misc/Gaming Stream for Saturday, January 4, 2020
+- Misc/How to make a BeatStar Sound pack
+- Misc/Last Stream of SBYW
+- Misc/Setting up Madden 20 with accessibility and no technical difficulties
+## 11-02-2022
+### Chris
+- Added Judgement Day
+- Added Hell Hunter - Anti-Nomen
+- Added Swamp
+- Q 9/Q9 Alternate Ending
+- Scrolling Battles, Your World/Sketchbook Your World Overview
 ## 26-01-2021
 ### Sethgamer
 - Misc/Audio Run, Fun Time Wasting Endless Running Style Game Gameplay
@@ -78,7 +115,9 @@ The changelog follows a few basic guidelines
 ## 24-10-2021
 - Added content by Technology For Blind
 ## 23-10-2021
-- Added content by Andrea Estrella, Matteo Panariello, and Maulpaul
+- Added content by Andrea Estrella
+- Added content by Matteo Panariello
+- Added content by Maulpaul
 ### Amerikranian
 - SBYW Challenge Gems/03 A Fun Adventure, What Happens When You Have the Runs 2D, Evil Support, Rooftop disaster, Burning Battleship
 ### Evil Chocolate Cookie
