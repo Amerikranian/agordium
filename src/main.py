@@ -22,8 +22,8 @@ def generate_index():
 <p id="donation-value"></p>
 <script>
 let dStr = new Date().toDateString()
-let money = 120.00
-document.getElementById("donation-value").innerHTML = "As of "+dStr+", a monthly donation of $"+money+" has been given to help with storage and bandwidth costs. Thank you for your support."
+let money = 0
+document.getElementById("donation-value").innerHTML = "As of "+dStr+", a monthly donation of $"+money+" has been given to help with storage and bandwidth costs."
 </script>
 <p>There has been some interest in donating to this project. There is no requirement and no commitment to having to donate. However, to help with space and bandwidth costs, any donations are very much appreciated. There is a Donation Box form to submit donations. And rest assured, the money donated here will only go to the maintenance of this website and server space and bandwidth costs.</p>
 <p>There is an assurance that if donation goals are met monthly, there are no penalties. However, if the cost incurred by excessive bandwidth usage exceeds the donation amount, the authors of the site reserve the right to shut it down for the month as described in the "Important please read" section.</p>
