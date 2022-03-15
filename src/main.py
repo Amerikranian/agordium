@@ -22,7 +22,7 @@ def generate_index():
 <p id="donation-value"></p>
 <script>
 let dStr = new Date().toDateString()
-let money = 110.00
+let money = 60
 document.getElementById("donation-value").innerHTML = "As of "+dStr+", a monthly donation of $"+money+" has been given to help with storage and bandwidth costs. Thank you for your support."
 </script>
 <p>There has been some interest in donating to this project. There is no requirement and no commitment to having to donate. However, to help with space and bandwidth costs, any donations are very much appreciated. There is a Donation Box form to submit donations. And rest assured, the money donated here will only go to the maintenance of this website and server space and bandwidth costs.</p>
