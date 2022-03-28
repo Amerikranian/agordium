@@ -44,11 +44,14 @@
 2021-05-19 21:38:05   63525146 44k Let's Plays/Sequence Storm/01 Sequence Storm Live Playthrough Part 1 - welcome to midori Raceway!.mp3
 2021-05-19 21:38:05   99062249 44k Let's Plays/Sequence Storm/02 Sequence Storm Live Playthrough part 2 - sh_t just got real.mp3
 2021-05-19 21:38:05   70434569 44k Let's Plays/Sequence Storm/03 Sequence Storm Live Playthrough Part 3 - my life is on the line.mp3
+2022-03-28 17:09:18   80731667 44k Let's Plays/Streams/44K Gets Scrambled!.mp3
 2021-09-04 23:45:27  364111065 44k Let's Plays/Streams/44K Let's Plays - traveling through The Vale.mp3
 2021-05-19 21:38:06  208184717 44k Let's Plays/Streams/44K Let's Plays frighten friends.mp3
 2021-05-19 21:38:06   76335315 44k Let's Plays/Streams/44K Let's plays actually get dangerous.mp3
 2021-05-19 21:38:06   46217440 44k Let's Plays/Streams/44K Letsplays Gets dangerous.mp3
 2021-05-19 21:38:06  312298911 44k Let's Plays/Streams/44K Q&A and Gamaplay Mason armstrong.mp3
+2022-03-28 17:09:18  144473793 44k Let's Plays/Streams/44K Remembers KFlex - A hero's Call.mp3
+2022-03-28 17:09:18   65176905 44k Let's Plays/Streams/44K Remembers KFlex - audio Wizards.mp3
 2021-05-19 21:38:05   58471290 44k Let's Plays/lost and hound/44K Let's Plays streams lost and hound.mp3
 2021-05-19 19:10:59          0 Amerikranian/
 2021-05-19 19:22:10   78751450 Amerikranian/A Blind Legend/A Blind Legend.mp3
@@ -223,9 +226,13 @@
 2021-06-27 12:19:02   76907066 Audiogame Extraordinaire/Eurofly/04 Let's Play Eurofly Part 4 - Tasks 7-8.mp3
 2021-06-27 12:19:02  126210653 Audiogame Extraordinaire/Eurofly/05 Let's Play Eurofly Part 5 - Tasks 9-11.mp3
 2021-06-27 12:19:02  105377626 Audiogame Extraordinaire/Eurofly/06 Let's Play Eurofly Part 6 - Tasks 12-13.mp3
+2022-03-28 17:44:46  175087248 Audiogame Extraordinaire/Hell Hunter - AntiNomen/Hell Hunter Part 1.mp3
+2022-03-28 17:44:46  146510132 Audiogame Extraordinaire/Hell Hunter - AntiNomen/Hell Hunter Part 2.mp3
+2022-03-28 17:44:46   67204391 Audiogame Extraordinaire/Hell Hunter - AntiNomen/Hell Hunter Part 3.mp3
 2021-06-26 21:55:32  215675435 Audiogame Extraordinaire/Legacy/Legacy Chapters 1-5.mp3
 2021-06-26 21:55:32  121864747 Audiogame Extraordinaire/Lost in Blindness/Lost in Blindness.mp3
 2021-06-26 22:07:28    9129254 Audiogame Extraordinaire/Mine Racer/Let's Play Mineracer.mp3
+2022-03-28 17:44:46   81983652 Audiogame Extraordinaire/Misc/Stardew Valley.mp3
 2021-06-26 21:55:32   43404028 Audiogame Extraordinaire/Mudsplat/Let's Play Mudsplat.mp3
 2021-06-26 21:55:42    7568403 Audiogame Extraordinaire/Random Audiogames/100 Subscribers Marathon Part 1.mp3
 2021-06-26 21:55:31  206513351 Audiogame Extraordinaire/Random Audiogames/100 Subscribers Marathon Part 2.mp3
@@ -253,8 +260,10 @@
 2021-06-26 21:55:31   38512874 Audiogame Extraordinaire/Random Audiogames/Halloween Special 2018 Part 1.mp3
 2021-06-26 21:55:31   32433562 Audiogame Extraordinaire/Random Audiogames/Halloween Special 2018 Part 2.mp3
 2021-06-26 21:55:32   95583861 Audiogame Extraordinaire/Random Audiogames/Halloween Stream 2020.mp3
+2022-03-28 17:38:29   88340201 Audiogame Extraordinaire/Random Audiogames/Streaming The Vale Demo.mp3
 2021-06-26 21:55:32  108636996 Audiogame Extraordinaire/Random Audiogames/Streaming the Final Demo for The Vale (v1).mp3
 2021-06-26 21:55:32  108636996 Audiogame Extraordinaire/Random Audiogames/Streaming the Final Demo for The Vale (v2).mp3
+2022-03-28 17:38:29  107507710 Audiogame Extraordinaire/Random Audiogames/The Arcane Duels Demo.mp3
 2021-06-26 21:55:31  137335309 Audiogame Extraordinaire/Super Liam/Let's Play Super Liam.mp3
 2021-06-26 21:55:31   73939792 Audiogame Extraordinaire/Survive the Wild/01 Survive the Wild - getting into the game.mp3
 2021-06-26 21:55:31  133089346 Audiogame Extraordinaire/Survive the Wild/02 Survive the Wild - Actually Trying to Survive this Time.mp3
@@ -972,6 +981,17 @@
 2021-05-19 20:09:23   42368616 Caturria/Paladin/part18.mp3
 2021-05-19 21:38:04   49704045 Chriss/A Blind Legend/Let's Play A Blind Legend Part 1.mp3
 2021-05-19 21:38:04   40183797 Chriss/A Blind Legend/Let's Play A Blind Legend Part 2.mp3
+2022-03-28 16:54:50   77700885 Chriss/A Hero's Call/Let's Play A Hero's Call Part 1 The Adventure Begins!.mp3
+2022-03-28 16:54:50   58709009 Chriss/A Hero's Call/Let's Play A Hero's Call Part 10 When Will We Rest.mp3
+2022-03-28 16:54:50   98272137 Chriss/A Hero's Call/Let's Play A Hero's Call Part 11 Jailbreak!.mp3
+2022-03-28 17:06:07   83420948 Chriss/A Hero's Call/Let's Play A Hero's Call Part 2 Lost in the Graveyard!.mp3
+2022-03-28 16:54:50   44602774 Chriss/A Hero's Call/Let's Play A Hero's Call Part 3 Who's the Puppet Master.mp3
+2022-03-28 16:54:50   66522638 Chriss/A Hero's Call/Let's Play A Hero's Call Part 4 An Unlikely Ally.mp3
+2022-03-28 16:54:50   86727948 Chriss/A Hero's Call/Let's Play A Hero's Call Part 5 Sticky Fingers.mp3
+2022-03-28 16:54:51   42551059 Chriss/A Hero's Call/Let's Play A Hero's Call Part 6 The King is a Coward!.mp3
+2022-03-28 16:54:51   83509648 Chriss/A Hero's Call/Let's Play A Hero's Call Part 7 Justice is Served!.mp3
+2022-03-28 16:54:51   98978704 Chriss/A Hero's Call/Let's Play A Hero's Call Part 8 Betrayed by Family.mp3
+2022-03-28 16:54:51   69085833 Chriss/A Hero's Call/Let's Play A Hero's Call Part 9 I'm A Hero!.mp3
 2021-05-20 03:55:21    7121613 Chriss/Accessible Sonic/Let's Play Accessible Sonic.mp3
 2021-05-20 03:55:00    7365693 Chriss/Accessible Super Mario/Let's Play Accessible Super Mario.mp3
 2021-12-11 14:57:17   42550356 Chriss/Adventure at C Remnant/01 Let's Play Adventure At C - Remnant Part 1.mp3
@@ -1099,6 +1119,9 @@
 2022-02-11 17:41:31   64822279 Chriss/Hell Hunter - Anti-Nomen/Hell Hunter - Anti-Nomen Part 2 You are the Meal!.mp3
 2022-02-11 17:41:31   53091903 Chriss/Hell Hunter - Anti-Nomen/Hell Hunter - Anti-Nomen Part 3 Be afraid, be very afraid!.mp3
 2022-02-11 17:41:31   71231557 Chriss/Hell Hunter - Anti-Nomen/Hell Hunter - Anti-Nomen Part 4 Meet your fate with the captain.mp3
+2022-03-28 17:13:52   54776824 Chriss/Hell Hunter - Anti-Nomen/Hell Hunter - AntiNomen Part 5 Let the Torture Begin!.mp3
+2022-03-28 17:13:52   26679461 Chriss/Hell Hunter - Anti-Nomen/Hell Hunter - AntiNomen Part 6 Did you really think it would be that easy.mp3
+2022-03-28 17:13:52   36670433 Chriss/Hell Hunter - Anti-Nomen/Hell Hunter - AntiNomen Part 7 You shall never escape!.mp3
 2021-05-19 21:37:59   26312397 Chriss/Hunter/Let's Play Hunter.mp3
 2022-02-11 17:41:31   32814729 Chriss/Judgement Day/Judgment Day Overview.mp3
 2021-05-19 21:37:59   88737909 Chriss/Jungle/Let's Play Jungle, a strategy board game.mp3
@@ -1246,6 +1269,7 @@
 2021-10-28 20:10:09   47196751 Chriss/Road to Rage/Let's Play Road to Rage.mp3
 2021-05-20 03:55:33    6535029 Chriss/ScapeSkate/Failing at ScapeSkate.mp3
 2021-05-19 21:37:58   47932029 Chriss/Science Invasion/Let's Play Science Invasion.mp3
+2022-03-28 17:12:11   50915706 Chriss/Scramble/Scramble Overview.mp3
 2021-05-20 03:49:12   16759697 Chriss/Screaming Strike/Let's Play Screaming Strike.mp3
 2021-12-25 15:40:10   22362791 Chriss/Screaming Strike/Screaming Strike 2 Demo.mp3
 2021-05-19 21:37:58   35395795 Chriss/Scrolling Battles Pro/Let's Play Scrolling Battles Pro.mp3
@@ -1282,6 +1306,8 @@
 2021-05-20 04:16:22   13010712 Chriss/Super Liam/Let's Play Super Liam part 5- Silver Spaceship.MP3
 2021-05-20 04:16:36    6971421 Chriss/Super Liam/Let's Play Super Liam part 6- Waterworks.mp3
 2021-05-20 04:15:29   10707213 Chriss/Super Liam/Let's play Super Liam part 3- Wild Woods.mp3
+2022-03-28 17:12:11   49864665 Chriss/Survive the Wild/Survive the Wild Part 1.mp3
+2022-03-28 17:12:11   50281460 Chriss/Survive the Wild/Survive the Wild Part 2.mp3
 2022-02-11 17:41:31   43197300 Chriss/Swamp/Swamp Overview.mp3
 2021-05-19 21:37:58   44987133 Chriss/Tarzan Junior/Let's Play Tarzan Junior.mp3
 2021-12-11 14:57:16   32804125 Chriss/Temporal/Temporal Overview.mp3
@@ -1326,6 +1352,7 @@
 2022-02-11 17:41:31   56715224 Chriss/Tube Sim/Tube Sim Overview.mp3
 2021-12-11 14:58:00   10103979 Chriss/Typerspeed Sepia/Let's Play Typerspeed Sepia.mp3
 2021-12-22 00:17:38   36386641 Chriss/UMart/U-Mart Demonstration.mp3
+2022-03-28 17:49:46   39806574 Chriss/World of War/World of War Overview.mp3
 2021-08-31 18:11:09   97704621 Crashmaster/The Vale/01 from intro to braga.mp3
 2021-08-31 18:11:09  108300717 Crashmaster/The Vale/02 rivertown.mp3
 2021-08-31 18:11:09   44952813 Crashmaster/The Vale/03 to crow.mp3
@@ -2374,12 +2401,14 @@
 2021-08-06 21:57:39   76387346 Kavya/Misc/playing some random games part two.mp3
 2021-08-06 21:57:39   57784762 Kavya/Misc/playing some random games.mp3
 2021-08-06 21:57:39   92775631 Kavya/Misc/playing yet moor random games.mp3
+2022-03-28 17:34:48   81093196 Kavya/Misc/sbyw overview.mp3
 2021-08-06 21:57:39   25891479 Kavya/Night of Parasite/Lets Play Night of Parasite Part 1.mp3
 2021-08-06 21:57:39   27629761 Kavya/Night of Parasite/Lets Play Night of Parasite Part 2.mp3
 2021-08-06 21:57:39   20874279 Kavya/Super Liam/01 Lets Play Super Liam Part 1.mp3
 2021-08-06 21:57:39   28031109 Kavya/Super Liam/02 Lets Play Super Liam Part 2.mp3
 2021-08-06 21:57:39   33643244 Kavya/Super Liam/03 Lets Play Super Liam Part 3.mp3
 2021-08-06 21:57:39   59799925 Kavya/Super Liam/04 Lets Play Super Liam Final Part 4.mp3
+2022-03-28 17:35:58   65489113 Kavya/Tomb Hunter/let's play tomb hunter part3.mp3
 2021-08-06 21:57:39   37682781 Kavya/Tomb Hunter/let's play toom hunter part 2.mp3
 2021-08-06 21:57:39   92223225 Kavya/Tomb Hunter/let's play toom hunter part one.mp3
 2021-05-19 21:37:54   56771245 Key is full/Adventure at C/Adventure at C full playthrough, almost.mp3
@@ -2651,6 +2680,7 @@
 2021-09-27 06:34:42  340884040 Liam Erven/Marathons/Liam's 2021 Marathon for September 25, 2021 - part 4.mp3
 2021-05-19 21:37:46  403102958 Liam Erven/Marathons/Liam's Labor Day Marathon Part 1 for September 6, 2020.mp3
 2021-05-19 21:37:46  445204353 Liam Erven/Marathons/Liam's Labor Day Marathon Part 2 for September 6, 2020.mp3
+2022-03-28 17:15:25  296101988 Liam Erven/Marathons/Super Liam Marathon for February 27, 2022.mp3
 2021-05-19 21:37:47  584599829 Liam Erven/Marathons/Ten Hour Patreon Gaming Marathon from November 5 2017.mp3
 2021-05-19 21:37:47  371019401 Liam Erven/Marathons/The Munawar marathon for December 8, 2019.mp3
 2021-05-20 00:47:11    1132826 Liam Erven/Misc audio/Crazy Party Hardcore Highlights.mp3
@@ -2682,6 +2712,7 @@
 2021-05-19 21:37:44  131464953 Liam Erven/Rhythm Heaven Fever/Rhythm heaven Fever for April 25, 2020.mp3
 2021-05-19 21:37:44  111178568 Liam Erven/Rhythm Heaven Fever/Rhythm heaven Fever for April 26, 2020.mp3
 2021-06-12 21:58:06  121507139 Liam Erven/Rhythm Heaven Fever/Rhythm heaven Your Choice for June 7, 2021.mp3
+2022-03-28 17:18:07  112312508 Liam Erven/Streams/1428 Shadows over Silesia Demo for March 24, 2022.mp3
 2021-05-19 21:37:50  154143093 Liam Erven/Streams/Archive Of Saturday Morning Soulcalibur VI Stream for October 27, 2018.mp3
 2021-05-19 21:37:52  165330343 Liam Erven/Streams/Archive Of Wednesday Night Gaming for July 11, 2018.mp3
 2021-05-19 21:37:49   59004309 Liam Erven/Streams/Archive of Audio Gaming for May 28, 2019.mp3
@@ -2801,6 +2832,8 @@
 2021-12-11 16:12:54   14683029 Liam Erven/Streams/Poptale Weekly for December 1, 2021 - Gacha Pets.mp3
 2022-02-12 09:14:02   51807785 Liam Erven/Streams/Poptale Weekly for December 29, 2021 - 2021 in Review.mp3
 2021-12-11 16:12:33   35915527 Liam Erven/Streams/Poptale Weekly for December 8, 2021 - Fabella Game Jam.mp3
+2022-03-28 17:18:07   18393094 Liam Erven/Streams/Poptale Weekly for February 16, 2022 - Darkness Falls.mp3
+2022-03-28 17:18:07   23113220 Liam Erven/Streams/Poptale Weekly for February 23, 2022 - Beach Tycoon.mp3
 2022-02-12 09:14:06    8273544 Liam Erven/Streams/Poptale Weekly for January 12, 2022 - Text Quest.mp3
 2022-02-12 09:14:02   21531549 Liam Erven/Streams/Poptale Weekly for January 19, 2022 - Voice Arcade.mp3
 2022-02-12 09:14:02   22922544 Liam Erven/Streams/Poptale Weekly for January 26, 2021 - The Copernicus Legacy.mp3
@@ -2813,6 +2846,9 @@
 2021-06-30 18:22:41   86095979 Liam Erven/Streams/Poptale Weekly for June 23, 2021.mp3
 2021-07-04 06:59:15   47885562 Liam Erven/Streams/Poptale Weekly for June 30, 2021.mp3
 2021-06-12 21:57:06   97556824 Liam Erven/Streams/Poptale Weekly for June 9, 2021.mp3
+2022-03-28 17:18:15   12439888 Liam Erven/Streams/Poptale Weekly for March 16, 2022 Vegas Slots.mp3
+2022-03-28 17:18:07   29736697 Liam Erven/Streams/Poptale Weekly for March 2, 2022 Beach tycoon (Continued).mp3
+2022-03-28 17:18:07   25481894 Liam Erven/Streams/Poptale Weekly for March 22, 2022  The Price is Right.mp3
 2021-12-11 16:12:33   30925428 Liam Erven/Streams/Poptale Weekly for November 10, 2021 - Last Light IN the Dark.mp3
 2021-12-11 16:13:59   13967291 Liam Erven/Streams/Poptale Weekly for November 17, 2021 - Lost Worlds.mp3
 2021-12-11 16:13:28   12065537 Liam Erven/Streams/Poptale Weekly for November 3, 2021 - Shield Spell Sword.mp3
@@ -2821,11 +2857,13 @@
 2021-09-25 10:50:25   16119662 Liam Erven/Streams/Poptale Weekly for September 15, 2021 - Bluebeard's Bride.mp3
 2021-09-25 10:50:23   31703560 Liam Erven/Streams/Poptale Weekly for September 22, 2021 - Iron Falcon – Shadows of the past.mp3
 2021-09-25 10:50:23   29382770 Liam Erven/Streams/Poptale Weekly for September 8, 2021 - Space Bones Online RPG.mp3
+2022-03-28 17:18:07   23886121 Liam Erven/Streams/Poptale Weekly for march 10, 2022 The Magic Door.mp3
 2021-10-24 08:54:02   15233151 Liam Erven/Streams/Poptale Weekly for october 13, 2021 - Pioneer Trail.mp3
 2021-12-11 16:12:33   23647191 Liam Erven/Streams/Poptale Weekly for october 27, 2021 - Escape from 63rd and Wallace.mp3
 2021-10-24 08:53:55   18349858 Liam Erven/Streams/Poptale Weekly for october 6, 2021 - Clash of Legions.mp3
 2021-06-06 12:51:20   68581816 Liam Erven/Streams/Rosemary's Fate Demo Chapter 1 for May 27, 2021.mp3
 2021-05-19 21:37:53  119180277 Liam Erven/Streams/Saturday Night Game Streaming 02-18-2017.mp3
+2022-03-28 17:18:07  108115757 Liam Erven/Streams/Scramble for March 12, 2022.mp3
 2021-05-19 21:37:54  115008529 Liam Erven/Streams/Sequence Storm for January 20, 2021.mp3
 2021-05-19 21:37:54  162072179 Liam Erven/Streams/Space Wave Race And Hell Hunter - Anti-Nomen Demo for February 12,, 2021.mp3
 2021-05-19 21:37:53  151489207 Liam Erven/Streams/Sunday Night Audio Game Streaming For April 8, 2018 (Archive).mp3
@@ -2845,6 +2883,7 @@
 2021-05-19 21:37:50  103113429 Liam Erven/Streams/archive of Friday Morning Eurofly for March 15, 2019.mp3
 2021-05-19 21:37:50   82001403 Liam Erven/Streams/archive of Pre Gamer Grace Stream.mp3
 2021-06-06 12:51:20  112704396 Liam Erven/Streams/crazy Party with viewers For March 31, 2021.mp3
+2022-03-28 17:18:07   67995550 Liam Erven/Streams/hearthstone For February 25, 2022.mp3
 2021-08-21 19:11:07   85175263 Liam Erven/Streams/hearthstone for August 13, 2021.mp3
 2021-12-11 16:12:33   99851377 Liam Erven/Streams/hearthstone for November 4, 2021.mp3
 2021-10-24 08:53:55   82185075 Liam Erven/Streams/hearthstone for October 18, 2021.mp3
@@ -3390,6 +3429,7 @@
 2021-05-19 21:37:38  140199200 Pg13 lp/Streams/PG13 Party at Christmas.mp3
 2021-05-19 21:37:42  164155110 Pg13 lp/Streams/PG13 Slay the Spire.mp3
 2021-05-19 21:37:38  184525443 Pg13 lp/Streams/PG13 battle constantly.mp3
+2022-03-28 17:33:19  157237269 Pg13 lp/Streams/PG13 cast Shadows over Silesia.mp3
 2021-05-19 21:37:42   96833627 Pg13 lp/Streams/PG13 command forgotten Islands.mp3
 2021-05-19 21:37:43   85474266 Pg13 lp/Streams/PG13 demise some detective.mp3
 2021-08-21 19:02:43   85268422 Pg13 lp/Streams/PG13 discover Rosemary's fate.mp3
@@ -4331,6 +4371,13 @@
 2021-08-07 13:12:36  119877883 The Audio Game Club- For Blind Gamers Everywhere/The Last Of Us II/20 The Last of us Part 2 walkthrough part 20 The End !.mp3
 2021-12-25 15:13:53  130032333 Thunderstep Gaming/A Hero's Call/01 There Is No Escape from the Horse _ A Hero's Call _ Part 1.mp3
 2021-12-25 15:13:53  102671794 Thunderstep Gaming/A Hero's Call/02 There Is Still No Escape from the Horse _ A Hero's Call _ Part 2.mp3
+2022-03-28 17:27:16  128012537 Thunderstep Gaming/A Hero's Call/03 Life After Horse _ A Hero's Call _ Part 3.mp3
+2022-03-28 17:27:16  138500411 Thunderstep Gaming/A Hero's Call/04 Just Horsing Around _ A Hero's Call _ Part 4.mp3
+2022-03-28 17:27:16  123355828 Thunderstep Gaming/A Hero's Call/05 Horses... Horses Tell Me _ A Hero's Call _ Part 5.mp3
+2022-03-28 17:27:16  147294113 Thunderstep Gaming/A Hero's Call/06 A Horse Is Never Late, Master Baggins _ A Hero's Call _ Part 6.mp3
+2022-03-28 17:27:16  124288456 Thunderstep Gaming/A Hero's Call/07 The Horse Within   A Hero's Call   Part 7.mp3
+2022-03-28 17:27:16  156573725 Thunderstep Gaming/A Hero's Call/08 A Horse by Any Other Name   A Hero's Call   Part 8.mp3
+2022-03-28 17:27:16  130272805 Thunderstep Gaming/A Hero's Call/09 May the Horse Be With You   A Hero's Call   Part 9.mp3
 2021-12-25 15:13:56   15428381 Thunderstep Gaming/Hearthstone/Climb to Legend with This Insane Deck _ Hearthstone.mp3
 2021-12-25 15:13:53  156820818 Thunderstep Gaming/Hearthstone/Fractured in Alterac Valley Launch Stream _ Hearthstone.mp3
 2021-12-25 15:13:53  157752281 Thunderstep Gaming/Hearthstone/Hearthstone - Final Push Out of Apprentice + Pack-off.mp3
@@ -4340,6 +4387,7 @@
 2021-12-25 15:13:53  345541886 Thunderstep Gaming/Hearthstone/Thunderstep Gaming Hearthstone Tournament _ Americas.mp3
 2021-12-25 15:13:53  384469319 Thunderstep Gaming/Hearthstone/Thunderstep Gaming Hearthstone Tournament _ Europe.mp3
 2021-12-25 15:13:53  170864587 Thunderstep Gaming/Hearthstone/Thunderstep Gaming Plays Hearthstone.mp3
+2022-03-28 17:25:25  225440699 Thunderstep Gaming/Misc/1428 Shadows over Silesia Early Access Demo Gameplay.mp3
 2021-12-25 15:13:53  194649754 Thunderstep Gaming/Misc/Thunderstep Gaming Plays A Blind Legend.mp3
 2021-12-25 15:13:53  113540255 Thunderstep Gaming/The Vale/01 The Vale - Shadow of the Crown _ Part 1.mp3
 2021-12-25 15:13:53  197040645 Thunderstep Gaming/The Vale/02 The Vale - Shadow of the Crown _ Part 2.mp3

@@ -7,6 +7,49 @@ The changelog follows a few basic guidelines
 - If the creator has not previously existed, the words "Added content by XXX," where XXX is the creator's name are used. The given entry follows the previous constraint
 - If the creator has previously existed but the newly-created folder has not, the words "Added YYY," where YYY is the new folder name are used. The given entry follows the ordering constraint described above
 - If the creator's content has been moved or merged with another author, the words "Moved XXX to YYY," where XXX is the original path and YYY is the new path are used. The given entry follows the ordering constraint described above
+## 28-03-2022
+## 44k Let's Plays
+- Streams/44K Gets Scrambled!
+- Streams/44K Remembers KFlex - A hero's Call
+- Streams/44K Remembers KFlex - audio Wizards
+### Audiogame Extraordinaire
+- Added Hell Hunter - AntiNomen
+- Added misc
+- Random Audiogames/Streaming The Vale Demo
+- Random Audiogames/The Arcane Duels Demo
+### Chriss
+- Added A Hero's Call
+- Added Scramble
+- Added Survive the Wild
+- Added World of War
+- Hell Hunter - Anti-Nomen/Hell Hunter - AntiNomen Part 5 Let the Torture Begin!
+- Hell Hunter - Anti-Nomen/Hell Hunter - AntiNomen Part 6 Did you really think it would be that easy
+- Hell Hunter - Anti-Nomen/Hell Hunter - AntiNomen Part 7 You shall never escape!
+### Kavya
+- Misc/sbyw overview
+- Tomb Hunter/let's play tomb hunter part3
+### Liam Erven
+- Marathons/Super Liam Marathon for February 27, 2022
+- streams/1428 Shadows over Silesia Demo for March 24, 2022
+- Streams/hearthstone For February 25, 2022
+- Streams/Poptale Weekly for February 16, 2022 - Darkness Falls
+- Streams/Poptale Weekly for February 23, 2022 - Beach Tycoon
+- Streams/Poptale Weekly for March 2, 2022 Beach tycoon (Continued)
+- Streams/Poptale Weekly for march 10, 2022 The Magic Door
+- Streams/Poptale Weekly for March 16, 2022 Vegas Slots
+- Streams/Poptale Weekly for March 22, 2022  The Price is Right
+- Streams/Scramble for March 12, 2022
+### PG13LP
+- Streams/PG13 cast Shadows over Silesia
+### Thunderstep Gaming
+- A Hero's Call/03 Life After Horse _ A Hero's Call _ Part 3
+- A Hero's Call/04 Just Horsing Around _ A Hero's Call _ Part 4
+- A Hero's Call/05 Horses... Horses Tell Me _ A Hero's Call _ Part 5
+- A Hero's Call/06 A Horse Is Never Late, Master Baggins _ A Hero's Call _ Part 6
+- A Hero's Call/07 The Horse Within   A Hero's Call   Part 7
+- A Hero's Call/08 A Horse by Any Other Name   A Hero's Call   Part 8
+- A Hero's Call/09 May the Horse Be With You   A Hero's Call   Part 9
+- Misc/1428 Shadows over Silesia Early Access Demo Gameplay
 ## 15-03-2022
 ### Sethgamer
 - Added Papa Sangre II
