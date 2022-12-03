@@ -99,6 +99,10 @@ The changelog follows a few basic guidelines
 - Streams/The Last of Us Part I - part 1
 - Streams/To the Dragon Cave for May 15, 2022
 - Streams/Viewer's Choice Gaming for November 23, 2022
+### PG13LP
+- Streams/PG13 become gods
+- Streams/PG13 chill out at the Hearth
+- Streams/PG13 enter the dragon's cave
 ## 28-03-2022
 ### 44k Let's Plays
 - Streams/44K Gets Scrambled!
