@@ -18,17 +18,9 @@ def generate_index():
 <h1>Welcome</h1>
 <p>Welcome to the Audio Games Recordings Repository.</p>
 <p>The aim of the website is to list audio recordings of people playing Audio Games.  The hope is that this will preserve a history of content whether for nostalgic purposes, provide walkthroughs, or to provide an avenue for discovering new and old games.</p>
-<h2>Donate</h2>
-<p id="donation-value"></p>
-<script>
-let dStr = new Date().toDateString()
-let money = 60
-document.getElementById("donation-value").innerHTML = "As of "+dStr+", a monthly donation of $"+money+" has been given to help with storage and bandwidth costs. Thank you for your support."
-</script>
-<p>There has been some interest in donating to this project. There is no requirement and no commitment to having to donate. However, to help with space and bandwidth costs, any donations are very much appreciated. There is a Donation Box form to submit donations. And rest assured, the money donated here will only go to the maintenance of this website and server space and bandwidth costs.</p>
-<p>There is an assurance that if donation goals are met monthly, there are no penalties. However, if the cost incurred by excessive bandwidth usage exceeds the donation amount, the authors of the site reserve the right to shut it down for the month as described in the "Important please read" section.</p>
-<p>This is a community effort and if the community cannot be responsible for following these guidelines, this project will not continue. Thank you for your understanding and let these recordings live on for all to enjoy!</p>
-<p>To donate, <a href="https://paypal.me/edgarlozano19">click here to donate.</a> Note you must have a PayPal account.</p>
+<h2>Update December 10, Please Read</h2>
+<p>We have noticed an unusual amount of data being downloaded. This implies there has been attempts to mass download files. Therefore, for now, we are turning off the ability to download files from this website. We apologize for the inconvenience.</p>
+<p>Please check back January or February of 2023. We hope you have a good holiday season.</p>
 <h2>Important Please Read</h2>
 <p>A small website such as this does not have any rules.</p>
 <p>The only rule is to please refrain from mass downloading all of the files available here. Using automated tools such as scripts, Curl, Wget, etc for the automating of downloads is strongly discouraged.</p>
