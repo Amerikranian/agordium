@@ -18,9 +18,6 @@ def generate_index():
 <h1>Welcome</h1>
 <p>Welcome to the Audio Games Recordings Repository.</p>
 <p>The aim of the website is to list audio recordings of people playing Audio Games.  The hope is that this will preserve a history of content whether for nostalgic purposes, provide walkthroughs, or to provide an avenue for discovering new and old games.</p>
-<h2>Update December 10, Please Read</h2>
-<p>We have noticed an unusual amount of data being downloaded. This implies there has been attempts to mass download files. Therefore, for now, we are turning off the ability to download files from this website. We apologize for the inconvenience.</p>
-<p>Please check back January or February of 2023. We hope you have a good holiday season.</p>
 <h2>Important Please Read</h2>
 <p>A small website such as this does not have any rules.</p>
 <p>The only rule is to please refrain from mass downloading all of the files available here. Using automated tools such as scripts, Curl, Wget, etc for the automating of downloads is strongly discouraged.</p>
